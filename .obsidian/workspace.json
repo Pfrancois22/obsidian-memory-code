@@ -6,7 +6,7 @@
       {
         "id": "2d997f224ef7b3c7",
         "type": "tabs",
-        "dimension": 87.28155339805825,
+        "dimension": 87.28155339805826,
         "children": [
           {
             "id": "cf7dc7e53d5d807d",
@@ -56,7 +56,7 @@
       {
         "id": "9a78ff71d5baa06a",
         "type": "tabs",
-        "dimension": 12.718446601941745,
+        "dimension": 12.718446601941743,
         "children": [
           {
             "id": "3f708ef3b2d8d507",
@@ -207,6 +207,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Ouvrir le sélecteur rapide": false,
       "graph:Ouvrir la vue graphique": false,
       "canvas:Créer une nouvelle toile": false,
