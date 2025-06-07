@@ -5,13 +5,6 @@ titre: Typescript Playground
 tags: [typescript, outil, débutant, obsidian]
 ---
 
-## ✅ Pourquoi c'est utile ?
-
-- Pour **comprendre comment TypeScript devient JavaScript**.
-    
-- Pour **tester ton code rapidement** sans rien installer.
-    
-- Pour **voir les erreurs ou les avertissements** directement.
 
 # 📘 [TypeScript Playground](https://www.typescriptlang.org)
 
@@ -63,4 +56,12 @@ function sayHello(name: string): string {
 // Résultat JavaScript à droite (selon les réglages choisis)
 function sayHello(name) {
     return "Bonjour " + name;
-}
+}```
+
+## ✅ Pourquoi c'est utile ?
+
+- Pour **comprendre comment TypeScript devient JavaScript**.
+    
+- Pour **tester ton code rapidement** sans rien installer.
+    
+- Pour **voir les erreurs ou les avertissements** directement.
