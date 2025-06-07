@@ -39,7 +39,9 @@ const sayHi = () => console.log("Hi");
 
 Tu peux ajouter des options pour choisir la version du JavaScript à générer :
 
-```tsc code.ts --target ES6```
+```
+tsc code.ts --target ES6
+```
 
 * - `--target` permet de choisir la version JS de sortie : `ES5`, `ES6`, `ES2016`, `ES2020`, etc.
 
@@ -51,15 +53,15 @@ Ou cherche sur Google : `TypeScript CLI options`
 * Tu tapes `tsc code.ts`
 * Tu obtiens automatiquement un fichier **code.js** avec ce contenu :
 
-```var sayHi = function () { return console.log("Hi"); };```
+```
+var sayHi = function () { return console.log("Hi"); };
+```
 
 ## 🔁 Astuce bonus : recompiler automatiquement
 
 Tu peux aussi lancer un **mode "watch"** qui compile à chaque sauvegarde :
 
-```tsc code.ts --watch```
-
 ```
-Tu peux m’envoyer la prochaine quand tu veux 😄
-
+tsc code.ts --watch
 ```
+
