@@ -43,15 +43,15 @@ Tu peux ajouter des options pour choisir la version du JavaScript à générer :
 tsc code.ts --target ES6
 ```
 
-* - `--target` permet de choisir la version JS de sortie : `ES5`, `ES6`, `ES2016`, `ES2020`, etc.
+*  `--target` permet de choisir la version JS de sortie : `ES5`, `ES6`, `ES2016`, `ES2020`, etc.
 
 📚 Pour toutes les options disponibles :  
 ➡️ [https://www.typescriptlang.org/docs/handbook/compiler-options.html](https://www.typescriptlang.org/docs/handbook/compiler-options.html)  
 Ou cherche sur Google : `TypeScript CLI options`
 
 ✅ Résultat attendu
-* Tu tapes `tsc code.ts`
-* Tu obtiens automatiquement un fichier **code.js** avec ce contenu :
+*  Tu tapes `tsc code.ts`
+*  Tu obtiens automatiquement un fichier **code.js** avec ce contenu :
 
 ```
 var sayHi = function () { return console.log("Hi"); };
