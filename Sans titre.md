@@ -10,3 +10,8 @@ d'abord faire la configuration désiré.
 -> JSX -> dans quoi le langage est utilisé (pour moi c'est React)
 -> Module -> Permet de choisir le support d'écécution, soit node, soit le navigateur soit VSC
 
+ensuite retrourner dans Playground
+
+-> sur la gauche mon code
+-> sur la droite le code transcripté
+
