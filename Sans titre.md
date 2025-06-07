@@ -24,12 +24,17 @@ Transcompiler veut dire **transformer** ton fichier `.ts` (TypeScript) en fichie
 const sayHi = () => console.log("Hi");
 ```
 
-- **Ouvrir le terminal dans VSC**
+3. **Ouvrir le terminal dans VSC**
     
     - Menu : `Terminal > Nouveau terminal`
         
     - Ou raccourci : `Ctrl + ù` (sur clavier français)
         
-- **Compiler avec la commande suivante** :
+4. **Compiler avec la commande suivante** :
+```
+tsc code.ts
+```
+
+
 
 
