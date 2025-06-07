@@ -35,6 +35,9 @@ const sayHi = () => console.log("Hi");
 tsc code.ts
 ```
 
- 📁 Cela génère automatiquement un fichier `code.js` dans le même dossier.
+> 📁 Cela génère automatiquement un fichier `code.js` dans le même dossier.
 
+## ⚙️ Ajouter des options de compilation
+
+Tu peux ajouter des options pour choisir la version du JavaScript à générer :
 
