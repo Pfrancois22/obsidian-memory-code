@@ -51,5 +51,15 @@ Ou cherche sur Google : `TypeScript CLI options`
 * Tu tapes `tsc code.ts`
 * Tu obtiens automatiquement un fichier **code.js** avec ce contenu :
 
+```var sayHi = function () { return console.log("Hi"); };```
 
+## 🔁 Astuce bonus : recompiler automatiquement
 
+Tu peux aussi lancer un **mode "watch"** qui compile à chaque sauvegarde :
+
+```tsc code.ts --watch```
+
+```
+Tu peux m’envoyer la prochaine quand tu veux 😄
+
+```
