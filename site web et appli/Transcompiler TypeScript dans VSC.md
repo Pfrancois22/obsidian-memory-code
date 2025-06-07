@@ -5,6 +5,7 @@
 ---
 titre: Transcompiler TypeScript avec VSC
 tags: [typescript, vscode, débutant, cli, transpilation]
+related: [Typescript Playground]
 ---
 
 # 🔧 Transcompiler du TypeScript dans Visual Studio Code (VSC)

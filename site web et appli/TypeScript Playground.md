@@ -3,6 +3,7 @@
 ---
 titre: Typescript Playground
 tags: [typescript, outil, débutant, obsidian]
+related: [Transcompiler TypeScript avec VSC]
 ---
 
 
