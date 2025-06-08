@@ -1,4 +1,10 @@
 
+---
+tags: [react, juggl]
+related:
+  - map()
+---
+
 
 
 # foreach()
