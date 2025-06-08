@@ -24,7 +24,7 @@ Court résumé ici (objectif, rôle, contexte d'usage).
 
 ### 🔁 Liés
 
-- [[map()]] _(exemple)_
+- [[map.md]] _(exemple)_
     
 
 ## 🗒️ Notes personnelles

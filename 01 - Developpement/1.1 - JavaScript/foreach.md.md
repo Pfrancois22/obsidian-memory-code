@@ -5,7 +5,7 @@ related:
   - foreach.md
 children:
   - map.md
-  - map_props
+  - map_props.md
 ---
 
 # Fonction : foreach()
@@ -39,9 +39,9 @@ array.forEach(element => {
 
 ### 📚 Concepts liés
 
-[[for()]]
+[[for-loop.md]]
 ### 🛠️ Fiches pratiques
-- [[foreach()]]
+- [[foreach.md]]
 
 ### 🚧 En cours
 

@@ -73,7 +73,7 @@ Si le tableau `data` est fourni comme ci-dessus, le rendu final sera :
 [[map(props)]]
 
 ### 🛠️ Fiches pratiques
-- [[map()]]
+- [[map.md]]
 
 ### 🚧 En cours
 

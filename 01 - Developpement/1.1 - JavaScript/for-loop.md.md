@@ -54,9 +54,9 @@ for (let i = 0; i < 5; i++) {
 
 ### 📚 Concepts liés
 
-[[foreach()]]
+[[foreach.md]]
 ### 🛠️ Fiches pratiques
-- [[for()]]
+- [[for-loop.md]]
 
 ### 🚧 En cours
 

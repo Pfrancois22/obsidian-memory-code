@@ -45,6 +45,6 @@ export default NumberList;
 [[map(props)]]
 
 ### 🛠️ Fiches pratiques
-- [[map()]]
+- [[map.md]]
 
 ### 🚧 En cours
