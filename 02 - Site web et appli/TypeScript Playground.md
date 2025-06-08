@@ -1,5 +1,3 @@
-
-
 ---
 titre: Typescript Playground
 tags: [typescript, outil, débutant, obsidian]
