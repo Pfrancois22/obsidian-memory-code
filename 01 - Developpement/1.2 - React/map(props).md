@@ -2,7 +2,10 @@
 tags: [react, juggl]
 parent: map()
 related:
-  - map
+  - map()
+  - map(props)
+children:
+  - foreach()
 ---
 
 
