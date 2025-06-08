@@ -13,38 +13,25 @@ children:
 
 
 # For()
-# {{title}}
 
-## 🧠 Résumé rapide
 
-> Résume ici à quoi sert cette fiche en 2 ou 3 lignes.
+Tu es un assistant expert en documentation technique. Génère **uniquement** le contenu d’une fiche **au format Markdown** sur la fonction **for()**, sans aucune explication supplémentaire. La fiche doit comporter :
 
----
+1. **Le nom de la fonction**  
+   
+2. **Définition**  
+   - Une phrase courte et précise décrivant son utilité.
 
-## 📌 Contenu
+3. **Décomposition pas à pas**  
+   4. Étape 1 : …  
+   5. Étape 2 : …  
+   6. Étape 3 : …
 
-(Ton contenu principal va ici)
+7. **1 exemples d’utilisation**  
+   - **Exemple avec rendu (sorti) 
 
----
 
-## 🔗 Liens connexes
-
-- [[Nom d’une fiche liée]]
-- [[Autre sujet similaire]]
-
----
-
-## 🧭 Navigation / Contexte
-
-📂 Dossier : `01 - Développement/1.2 - React`  
-🔍 Vue locale : `React uniquement`
-
----
-
-## 🗒️ Notes personnelles
-
-- À compléter plus tard...
-
- It looks like you have a placeholder for a title and a note indicating that something needs to be completed later. If you provide more context or details, I'd be happy to help you develop your content or provide suggestions!
-
+5. **Liens externes**  
+   - MDN : 
+   - W3Schools : 
 
