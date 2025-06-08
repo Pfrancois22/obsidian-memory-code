@@ -1,7 +1,7 @@
 
 
 ---
-tags: [react]
+tags: [react, juggl]
 parent: map()
 children:
   - map(props)
