@@ -71,7 +71,7 @@ tsc code.ts --watch
 ## 🔗 Liens connexes
 
 ### 📚 Concepts liés
-- [[Typescript Playground]]
+- [[TypeScript Playground]]
 - [[]]
 
 ### 🛠️ Fiches pratiques

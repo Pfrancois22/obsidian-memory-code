@@ -6,5 +6,6 @@
   "showInlineTitle": false,
   "userIgnoreFilters": [
     "_prompts/"
-  ]
+  ],
+  "alwaysUpdateLinks": true
 }
