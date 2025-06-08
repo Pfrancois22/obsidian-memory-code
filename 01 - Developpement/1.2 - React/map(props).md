@@ -3,9 +3,9 @@ tags: [react, juggl]
 parent: map.md
 related:
   - map.md
-  - map_props
+  - map_props.md
 children:
-  - foreach
+  - foreach.md
 ---
 
 # Fonction : map() avec props dans React
