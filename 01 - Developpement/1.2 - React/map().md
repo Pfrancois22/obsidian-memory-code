@@ -40,7 +40,8 @@ export default NumberList;
 ### 📚 Concepts liés
 - [[map(props)]]
 - [[map()]]
-[[parent:map Pr]]
+[[parent::map principal]]
+[[related::map(props)]]
 ### 🛠️ Fiches pratiques
 - [[map()]]
 - [[]]
