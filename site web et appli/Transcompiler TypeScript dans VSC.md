@@ -75,7 +75,7 @@ tsc code.ts --watch
 - [[]]
 
 ### 🛠️ Fiches pratiques
-- [[Transcompiler TypeScript avec VSC]]
+- [[]]
 - [[]]
 
 ### 🚧 En cours

@@ -76,7 +76,7 @@ function sayHello(name) {
 - [[]]
 
 ### 🛠️ Fiches pratiques
-- [[Transcompiler TypeScript avec VSC]]
+- [[]]
 - [[]]
 
 ### 🚧 En cours
