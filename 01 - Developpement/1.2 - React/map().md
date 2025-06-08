@@ -10,7 +10,6 @@ children:
 
 
 
-[
 # Fonction: map() en React
 
 ## Définition
