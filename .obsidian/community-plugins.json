@@ -1,5 +1,6 @@
 [
   "obsidian-textgenerator-plugin",
   "obsidian-git",
-  "juggl"
+  "juggl",
+  "templater-obsidian"
 ]
