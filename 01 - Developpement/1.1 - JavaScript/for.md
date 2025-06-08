@@ -15,10 +15,8 @@ children:
 # For()
 
 
-Tu es un assistant expert en documentation technique. Génère **uniquement** le contenu d’une fiche **au format Markdown** sur la fonction **for()**, sans aucune explication supplémentaire. La fiche doit comporter :
 
 
- ```markdown
 # Fiche Technique : Fonction `for()`
 
 ## Description
@@ -45,20 +43,6 @@ for (let i = 0; i < 5; i++) {
 // Affiche: 0, 1, 2, 3, 4
 ```
 
-### Exemple en Python (Boucle avec range)
-```python
-for i in range(5):
-    print(i)
-# Affiche: 0, 1, 2, 3, 4
-```
-
-### Exemple en C++
-```cpp
-for (int i = 0; i < 5; ++i) {
-    std::cout << i << std::endl;
-}
-// Affiche: 0, 1, 2, 3, 4
-```
 
 ## Utilisations Courantes
 
@@ -72,22 +56,5 @@ for (int i = 0; i < 5; ++i) {
 2. **Éviter les modifications inutiles** : Ne modifiez pas les variables d'itération à l'intérieur du bloc sauf si nécessaire.
 3. **Utiliser la boucle appropriée** : Assurez-vous que `for()` est le bon choix par rapport à d'autres structures comme `while` ou `do-while
 
-4. **Le nom de la fonction**  
-   
-5. **Définition**  
-   - Une phrase courte et précise décrivant son utilité.
 
-3. **Décomposition pas à pas**  
-   4. Étape 1 : …  
-   5. Étape 2 : …  
-   6. Étape 3 : …
-
-7. **1 exemples d’utilisation**  
-   - **Exemple avec rendu (sorti) 
-
-
-
-5. **Liens externes**  
-   - MDN : 
-   - W3Schools : 
 
