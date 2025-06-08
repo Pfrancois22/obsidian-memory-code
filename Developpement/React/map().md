@@ -42,7 +42,7 @@ export default NumberList;
 - [[map()]]
 
 ### 🛠️ Fiches pratiques
-- [[Transcompiler TypeScript avec VSC]]
+- [[m]]
 - [[Utiliser le watch mode de TypeScript]]
 
 ### 🚧 En cours
