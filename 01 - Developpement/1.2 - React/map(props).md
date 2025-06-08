@@ -7,12 +7,6 @@ related:
   - map
 ---
 
----
-tags: [react, juggl]
-parent: map()
-related:
-  - map()
----
 
 
 # Fiche Technique : map() avec props dans React
