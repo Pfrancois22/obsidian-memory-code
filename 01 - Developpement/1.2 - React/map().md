@@ -8,8 +8,6 @@ children:
   - foreach
 ---
 
-
-
 # Fonction : map() en React
 
 ## Définition
