@@ -10,7 +10,7 @@ children:
 
 
 
-# Fonction: foreach()
+# Fonction : foreach()
 
 ## Définition
 - La fonction `foreach()` permet d'exécuter une fonction donnée sur chaque élément d'un tableau.

@@ -10,7 +10,7 @@ children:
 
 
 
-# Fonction: map() en React
+# Fonction : map() en React
 
 ## Définition
 La fonction `map()` est utilisée pour itérer sur des tableaux et transformer chaque élément selon une fonction donnée, retournant un nouveau tableau.
