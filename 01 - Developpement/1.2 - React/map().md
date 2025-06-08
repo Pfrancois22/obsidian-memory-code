@@ -1,8 +1,7 @@
 
 
 
-[[map(props)]]
-
+[
 # Fonction: map() en React
 
 ## Définition

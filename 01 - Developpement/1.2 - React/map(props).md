@@ -1,6 +1,6 @@
 
 
-[[map()]]
+
 
 # Fiche Technique : map() avec props dans React
 
@@ -58,3 +58,19 @@ Si le tableau `data` est fourni comme ci-dessus, le rendu final sera :
 
 - MDN : [Array.prototype.map()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 - W3Schools : [JavaScript Array map() Method](https://www.w3schools.com/jsref/jsref_map.asp)
+
+---
+
+## 🔗 Liens connexes
+
+### 📚 Concepts liés
+- [[map(props)]]
+- [[map()]]
+[[parent::map enfant props]]
+[[related::map(props)]]
+### 🛠️ Fiches pratiques
+- [[map()]]
+- [[]]
+
+### 🚧 En cours
+- [[]]
