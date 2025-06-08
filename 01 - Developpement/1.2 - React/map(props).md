@@ -1,5 +1,3 @@
-
-
 ---
 tags: [react, juggl]
 parent: map()

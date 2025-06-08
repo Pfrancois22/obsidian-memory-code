@@ -1,7 +1,3 @@
-
-
-
-
 ---
 titre: Transcompiler TypeScript avec VSC
 tags: [typescript, vscode, débutant, cli, transpilation]
