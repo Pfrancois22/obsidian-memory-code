@@ -1,5 +1,13 @@
 
 
+---
+tags: [react]
+parent: map()
+children:
+  - map(props)
+related:
+  - map(props)
+---
 
 
 # Fiche Technique : map() avec props dans React

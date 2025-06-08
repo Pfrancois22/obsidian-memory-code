@@ -1,4 +1,13 @@
 
+---
+tags: [react]
+parent: map()
+children:
+  - map(props)
+related:
+  - map(props)
+---
+
 
 
 [
