@@ -42,8 +42,8 @@ export default NumberList;
 - [[map()]]
 
 ### 🛠️ Fiches pratiques
-- [[m]]
-- [[Utiliser le watch mode de TypeScript]]
+- [[map()]]
+- [[]]
 
 ### 🚧 En cours
-- [[Fiche à créer - Compiler TS avec tsconfig.json]]
+- [[]]
