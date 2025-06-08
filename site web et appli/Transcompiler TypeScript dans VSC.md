@@ -66,3 +66,17 @@ Tu peux aussi lancer un **mode "watch"** qui compile à chaque sauvegarde :
 tsc code.ts --watch
 ```
 
+---
+
+## 🔗 Liens connexes
+
+### 📚 Concepts liés
+- [[Typescript Playground]]
+- [[Qu’est-ce que TypeScript]]
+
+### 🛠️ Fiches pratiques
+- [[Transcompiler TypeScript avec VSC]]
+- [[Utiliser le watch mode de TypeScript]]
+
+### 🚧 En cours
+- [[Fiche à créer - Compiler TS avec tsconfig.json]]

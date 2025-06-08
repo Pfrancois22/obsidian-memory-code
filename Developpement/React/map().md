@@ -31,3 +31,19 @@ export default NumberList;
 ## Liens externes
 - MDN : [Array.prototype.map()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 - W3Schools : [JavaScript Array map()](https://www.w3schools.com/jsref/jsref_map.asp)
+
+
+---
+
+## 🔗 Liens connexes
+
+### 📚 Concepts liés
+- [[]]
+- [[Qu’est-ce que TypeScript]]
+
+### 🛠️ Fiches pratiques
+- [[Transcompiler TypeScript avec VSC]]
+- [[Utiliser le watch mode de TypeScript]]
+
+### 🚧 En cours
+- [[Fiche à créer - Compiler TS avec tsconfig.json]]
