@@ -1,8 +1,8 @@
 ---
 tags: [react, juggl]
-parent: map
+parent: map.md
 related:
-  - map
+  - map.md
   - map_props
 children:
   - foreach
