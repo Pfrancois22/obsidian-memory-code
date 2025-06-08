@@ -79,4 +79,4 @@ tsc code.ts --watch
 - [[Utiliser le watch mode de TypeScript]]
 
 ### 🚧 En cours
-- [[Fiche à créer - Compiler TS avec tsconfig.json]]
+- [[]]
