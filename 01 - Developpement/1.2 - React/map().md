@@ -37,8 +37,7 @@ export default NumberList;
 ## 🔗 Liens connexes
 
 ### 📚 Concepts liés
-- [[map(props)]]
-- [[map()]]
+
 [[parent::map principal]]
 [[related::map(props)]]
 ### 🛠️ Fiches pratiques

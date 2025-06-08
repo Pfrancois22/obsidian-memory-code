@@ -64,8 +64,7 @@ Si le tableau `data` est fourni comme ci-dessus, le rendu final sera :
 ## 🔗 Liens connexes
 
 ### 📚 Concepts liés
-- [[map(props)]]
-- [[map()]]
+
 [[parent::map enfant props]]
 [[related::map]]
 ### 🛠️ Fiches pratiques
