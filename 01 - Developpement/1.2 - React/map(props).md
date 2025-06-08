@@ -10,7 +10,7 @@ children:
 
 
 
-# Fiche Technique : map() avec props dans React
+# Fonction : map() avec props dans React
 
 ## Nom de la fonction  
 `map() avec props`

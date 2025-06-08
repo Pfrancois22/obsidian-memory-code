@@ -12,7 +12,7 @@ children:
 
 
 
-# Fonction `for()`
+# Fonction : `for()`
 
 ## Description
 La fonction `for()` est une structure de contrôle utilisée pour répéter un bloc de code un nombre déterminé de fois. Elle est couramment utilisée dans de nombreux langages de programmation pour itérer sur des ensembles, des listes, des tableaux ou d'autres types de collections.

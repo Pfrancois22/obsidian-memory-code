@@ -1,11 +1,11 @@
 ---
 tags: [react, juggl]
-parent: map()
+parent: map
 related:
-  - map()
-  - map(props)
+  - map
+  - map_props
 children:
-  - foreach()
+  - foreach
 ---
 
 
