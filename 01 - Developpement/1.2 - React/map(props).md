@@ -7,6 +7,7 @@ related:
 children:
   - foreach
 ---
+
 # Fonction : map() avec props dans React
 
 ## Nom de la fonction  
@@ -69,11 +70,9 @@ Si le tableau `data` est fourni comme ci-dessus, le rendu final sera :
 ## 🔗 Liens connexes
 
 ### 📚 Concepts liés
-
 [[map(props)]]
 
 ### 🛠️ Fiches pratiques
 - [[map()]]
-
 
 ### 🚧 En cours

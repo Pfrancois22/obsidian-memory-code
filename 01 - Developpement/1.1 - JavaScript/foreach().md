@@ -8,8 +8,6 @@ children:
   - map_props
 ---
 
-
-
 # Fonction : foreach()
 
 ## Définition
@@ -44,6 +42,5 @@ array.forEach(element => {
 [[for()]]
 ### 🛠️ Fiches pratiques
 - [[foreach()]]
-
 
 ### 🚧 En cours

@@ -7,11 +7,6 @@ children:
   - map
 ---
 
-
-
-
-
-
 # Fonction : `for()`
 
 ## Description
@@ -53,7 +48,6 @@ for (let i = 0; i < 5; i++) {
 2. **Éviter les modifications inutiles** : Ne modifiez pas les variables d'itération à l'intérieur du bloc sauf si nécessaire.
 3. **Utiliser la boucle appropriée** : Assurez-vous que `for()` est le bon choix par rapport à d'autres structures comme `while` ou `do-while
 
-
 ---
 
 ## 🔗 Liens connexes
@@ -63,6 +57,5 @@ for (let i = 0; i < 5; i++) {
 [[foreach()]]
 ### 🛠️ Fiches pratiques
 - [[for()]]
-
 
 ### 🚧 En cours

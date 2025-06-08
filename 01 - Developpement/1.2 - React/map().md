@@ -38,9 +38,13 @@ export default NumberList;
 - W3Schools : [JavaScript Array map()](https://www.w3schools.com/jsref/jsref_map.asp)
 
 ---
+
 ## 🔗 Liens connexes
+
 ### 📚 Concepts liés
 [[map(props)]]
+
 ### 🛠️ Fiches pratiques
 - [[map()]]
+
 ### 🚧 En cours
