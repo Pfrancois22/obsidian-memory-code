@@ -72,11 +72,11 @@ tsc code.ts --watch
 
 ### 📚 Concepts liés
 - [[Typescript Playground]]
-- [[Qu’est-ce que TypeScript]]
+- [[]]
 
 ### 🛠️ Fiches pratiques
 - [[Transcompiler TypeScript avec VSC]]
-- [[Utiliser le watch mode de TypeScript]]
+- [[]]
 
 ### 🚧 En cours
 - [[]]
