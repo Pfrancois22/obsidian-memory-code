@@ -150,6 +150,26 @@
               "icon": "lucide-list",
               "title": "Plan de map"
             }
+          },
+          {
+            "id": "660d1bd810e33139",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "ad2da7834ffed11d",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
           }
         ]
       }
@@ -165,7 +185,8 @@
       "canvas:Créer une nouvelle toile": false,
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
-      "command-palette:Ouvrir la palette de commandes": false
+      "command-palette:Ouvrir la palette de commandes": false,
+      "juggl:Juggl global graph": false
     }
   },
   "active": "5d7db0e946c6d4df",
