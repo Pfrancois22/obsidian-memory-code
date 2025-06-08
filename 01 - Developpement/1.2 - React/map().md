@@ -38,8 +38,8 @@ export default NumberList;
 
 ### 📚 Concepts liés
 
-[[parent::map principal]]
-[[related::map(props)]]
+[[]]
+[[map(props)]]
 ### 🛠️ Fiches pratiques
 - [[map()]]
 - [[]]

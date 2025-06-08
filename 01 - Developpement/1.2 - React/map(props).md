@@ -65,8 +65,8 @@ Si le tableau `data` est fourni comme ci-dessus, le rendu final sera :
 
 ### 📚 Concepts liés
 
-[[parent::map enfant props]]
-[[related::map]]
+[[map()]]
+[[]]
 ### 🛠️ Fiches pratiques
 - [[map()]]
 - [[]]
