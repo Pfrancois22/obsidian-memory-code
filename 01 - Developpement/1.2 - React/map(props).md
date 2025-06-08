@@ -74,10 +74,9 @@ Si le tableau `data` est fourni comme ci-dessus, le rendu final sera :
 ### 📚 Concepts liés
 
 [[map()]]
-[[]]
+
 ### 🛠️ Fiches pratiques
 - [[map()]]
-- [[]]
+
 
 ### 🚧 En cours
-- [[]]

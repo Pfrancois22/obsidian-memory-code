@@ -33,3 +33,17 @@ array.forEach(element => {
 ## Liens externes
 - MDN : [Array.prototype.forEach() - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
 - W3Schools : [JavaScript Array forEach() Method](https://www.w3schools.com/jsref/jsref_foreach.asp)
+```
+
+---
+
+## 🔗 Liens connexes
+
+### 📚 Concepts liés
+
+[[map(props)]]
+### 🛠️ Fiches pratiques
+- [[map()]]
+
+
+### 🚧 En cours

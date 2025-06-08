@@ -46,11 +46,9 @@ export default NumberList;
 
 ### 📚 Concepts liés
 
-[[]]
 [[map(props)]]
 ### 🛠️ Fiches pratiques
 - [[map()]]
-- [[]]
+
 
 ### 🚧 En cours
-- [[]]
