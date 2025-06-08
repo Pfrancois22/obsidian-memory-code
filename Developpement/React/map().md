@@ -38,8 +38,8 @@ export default NumberList;
 ## 🔗 Liens connexes
 
 ### 📚 Concepts liés
-- [[]]
-- [[Qu’est-ce que TypeScript]]
+- [[map(props)]]
+- [[map()]]
 
 ### 🛠️ Fiches pratiques
 - [[Transcompiler TypeScript avec VSC]]
