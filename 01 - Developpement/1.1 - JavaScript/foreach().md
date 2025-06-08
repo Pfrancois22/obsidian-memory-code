@@ -41,9 +41,9 @@ array.forEach(element => {
 
 ### 📚 Concepts liés
 
-[[map(props)]]
+[[for()]]
 ### 🛠️ Fiches pratiques
-- [[map()]]
+- [[foreach()]]
 
 
 ### 🚧 En cours
