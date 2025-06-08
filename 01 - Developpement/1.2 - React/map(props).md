@@ -3,10 +3,15 @@
 ---
 tags: [react, juggl]
 parent: map()
-children:
-  - map(props)
 related:
-  - map(props)
+  - map
+---
+
+---
+tags: [react, juggl]
+parent: map()
+related:
+  - map()
 ---
 
 
