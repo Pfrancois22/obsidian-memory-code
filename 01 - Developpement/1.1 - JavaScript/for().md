@@ -1,10 +1,10 @@
 ---
 tags: [react, juggl]
-parent: for()
+parent: for-loop
 related:
-  - foreach()
+  - foreach
 children:
-  - map()
+  - map
 ---
 
 
