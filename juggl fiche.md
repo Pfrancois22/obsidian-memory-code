@@ -19,7 +19,7 @@ Court résumé ici (objectif, rôle, contexte d'usage).
 
 ### 🧒 Enfants
 
-- [[map(props)]] _(exemple)_
+- [[map_props.md]] _(exemple)_
     
 
 ### 🔁 Liés

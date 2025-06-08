@@ -42,7 +42,7 @@ export default NumberList;
 ## 🔗 Liens connexes
 
 ### 📚 Concepts liés
-[[map(props)]]
+[[map_props.md]]
 
 ### 🛠️ Fiches pratiques
 - [[map.md]]
