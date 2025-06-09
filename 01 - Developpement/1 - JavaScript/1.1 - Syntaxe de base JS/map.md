@@ -1,11 +1,7 @@
 ---
-tags: [react, juggl]
-parent: map
-related:
-  - map
-  - map_props
-children:
-  - foreach
+title: Méthode map() en JavaScript
+tags: [javascript, array, méthode, map, débutant]
+created: 2025-06-09
 ---
 
 # Fonction : map() en React
