@@ -56,31 +56,19 @@ console.log(clone); // { nom: "Bob", age: 25, ville: "Paris" }
 
 ## 🔗 Liens connexes
 
-- [[Opérateur Rest(...)]]
-
-  
+- [[Operateur Rest(...)]]
 
 ---
 
-  
-
 ## 🧭 Navigation / Contexte
-
-  
 
 📂 Dossier : `01 - Développement/1.1 - JavaScript`  
 
 🔍 Vue locale : `Syntaxe de base JS`
 
-  
-
 ---
 
-  
-
 ## 🗒️ Notes personnelles
-
-  
 
 - Spread permet de cloner, fusionner, insérer
 

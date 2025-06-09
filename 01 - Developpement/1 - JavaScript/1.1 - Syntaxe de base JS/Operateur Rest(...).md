@@ -1,18 +1,10 @@
 ---
-
 title: Opérateur Rest (...) en JavaScript
-
 tags: [javascript, rest, opérateur, débutant]
-
 created: 2025-06-09
-
 ---
 
-  
-
 # Opérateur Rest (...) en JavaScript
-
-  
 
 ## 🧠 Résumé rapide
 
