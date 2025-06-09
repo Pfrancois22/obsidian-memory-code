@@ -14,24 +14,14 @@ created: 2025-06-09
 
 ## liens web
 
-
 [React Docs - Lists and Keys](https://react.dev/learn/rendering-lists)  
-
 [w3schools](https://www.w3schools.com/react/react_es6_map.asp)
-
-  
-
+ 
 ---
-
-  
 
 ## 📌 Contenu
 
-  
-
 ### 📍 Exemple
-
-  
 
 ```js
 
@@ -59,42 +49,22 @@ export default function ListeFruits() {
 
 ```
 
-  
-
 ---
-
-  
 
 ## 🔗 Liens connexes
 
-  
-
 - [[Méthode .map() en JavaScript]]
-
 - [[foreach]]
-
-  
-
 ---
 
-  
-
 ## 🧭 Navigation / Contexte
-
-  
 
 📂 Dossier : `02 - React/2.2 - Syntaxe de base`  
 
 🔍 Vue locale : `JSX et rendu dynamique`
 
-  
-
 ---
 
-  
-
 ## 🗒️ Notes personnelles
-
-  
 
 - Ne jamais oublier la `key` quand on mappe un tableau
