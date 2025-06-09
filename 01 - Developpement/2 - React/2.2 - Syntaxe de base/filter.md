@@ -52,8 +52,8 @@ console.log(actifs); // [{ nom: "Marie", actif: true }]
 
 ## 🔗 Liens connexes
 
-- [[map()]]
-- [[reduce()]]
+- [[map]]
+- [[reduce]]
 
 ---
 
