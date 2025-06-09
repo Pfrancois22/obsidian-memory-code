@@ -59,30 +59,18 @@ console.log(pays); // France
 ## 🔗 Liens connexes
 
 - [[Operateur Rest(...)]]
-- [[Operateur Spread (...) en JavaScript]]
-
-  
+- [[Operateur Spread(...)]]
 
 ---
 
-  
-
 ## 🧭 Navigation / Contexte
-
-  
 
 📂 Dossier : `01 - Développement/1.1 - JavaScript`  
 
 🔍 Vue locale : `Syntaxe de base JS`
 
-  
-
 ---
 
-  
-
 ## 🗒️ Notes personnelles
-
-  
 
 - Très pratique avec les props en React
