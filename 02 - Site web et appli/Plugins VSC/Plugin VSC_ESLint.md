@@ -216,6 +216,7 @@ Pour le début, juste paramétrer dans la config de ESLint le "no-console" à wa
   - commenter les logs
   - ou passer temporairement à `'error'`
 
+
 #### 🪝 Hook Git avec Husky
 
   
