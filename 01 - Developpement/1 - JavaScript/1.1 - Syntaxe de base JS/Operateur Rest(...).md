@@ -15,7 +15,7 @@ created: 2025-06-09
 ## liens web
 
 [MDN]()
-[w3school](https://www.w3schools.com/jsref/jsref_array_rest.asp)
+[w3school]()
 
 ---
 
