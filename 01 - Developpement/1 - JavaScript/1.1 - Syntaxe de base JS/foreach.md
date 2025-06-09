@@ -39,9 +39,9 @@ array.forEach(element => {
 
 ### 📚 Concepts liés
 
-[[for-loop.md]]
+[[for-loop]]
 ### 🛠️ Fiches pratiques
-- [[foreach.md]]
+- [[foreach]]
 
 ### 🚧 En cours
 
