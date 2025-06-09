@@ -25,7 +25,7 @@ type: plugin
 
 Créer un fichier .eslintrc.js à la racine du projet :
 
-    ```js
+    js
 module.exports = {
   parser: '@typescript-eslint/parser',
   extends: [
