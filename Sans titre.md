@@ -24,3 +24,4 @@ Dans la configuration, on peu lui mettre des Rules (règles).
 ```
 
 * Règles qui peux être utiles
+sur le site [[palantir.github]]
