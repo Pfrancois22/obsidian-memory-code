@@ -11,6 +11,12 @@ created: 2025-06-09
 > `.every()` teste si **tous les éléments** d’un tableau remplissent une condition. Elle retourne `true` ou `false`.
 
 ---
+## liens web
+
+[MDN]()
+[w3school](https://www.w3schools.com/jsref/jsref_every.asp)
+
+---
 
 ## 📌 Contenu
 
