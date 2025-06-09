@@ -191,8 +191,24 @@ npm run lint -- --fix
 
   ## Astuce console.log
 
-Pour le début, juste paramétrer dans la config de ESLint le :
+Pour le début, juste paramétrer dans la config de ESLint le "no-console" à warn :
+```js
+ rules: {
 
+      ...reactHooks.configs.recommended.rules,
+
+      'react-refresh/only-export-components': [
+
+        'warn',
+
+        { allowConstantExport: true }
+
+      ],
+
+      'no-console': 'warn',
+
+    },
+```
 
 - Règle actuelle : `'no-console': 'warn'`
 - Utile pour repérer les `console.log()` sans bloquer le projet
