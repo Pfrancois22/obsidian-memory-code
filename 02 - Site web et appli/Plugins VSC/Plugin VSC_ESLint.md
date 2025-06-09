@@ -173,7 +173,7 @@ npm run lint -- --fix
 
 ### 6. Astuces avancées
 
-  
+
 
 #### ✅ Auto-fix à l’enregistrement (VSCode)
 
@@ -189,7 +189,13 @@ npm run lint -- --fix
 
 ```
 
-  
+  ## Astuce console.log
+
+- Règle actuelle : `'no-console': 'warn'`
+- Utile pour repérer les `console.log()` sans bloquer le projet
+- Pour production, penser à :
+  - commenter les logs
+  - ou passer temporairement à `'error'`
 
 #### 🪝 Hook Git avec Husky
 
