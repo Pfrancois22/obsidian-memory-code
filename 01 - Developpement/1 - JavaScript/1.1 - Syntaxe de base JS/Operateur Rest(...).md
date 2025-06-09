@@ -8,23 +8,13 @@ created: 2025-06-09
 
 ## 🧠 Résumé rapide
 
-  
-
 > L’opérateur `rest` (`...`) permet de collecter un nombre variable d’arguments dans une fonction ou de regrouper les propriétés restantes d’un objet ou tableau.
-
-  
 
 ---
 
-  
-
 ## 📌 Contenu
 
-  
-
 ### 📍 Utilisation en fonction
-
-  
 
 ```js
 
@@ -40,11 +30,7 @@ console.log(addition(1, 2, 3)); // 6
 
 ```
 
-  
-
 ### 📍 Utilisation en décomposition d’objet
-
-  
 
 ```js
 
@@ -66,11 +52,7 @@ console.log(autresInfos); // { age: 30, ville: "Paris" }
 
 ```
 
-  
-
 ### 📍 Utilisation en décomposition de tableau
-
-  
 
 ```js
 
@@ -82,41 +64,23 @@ console.log(reste);   // [2, 3, 4]
 
 ```
 
-  
-
 ---
-
-  
 
 ## 🔗 Liens connexes
 
-  
-
-- [[Opérateur Spread (...)]]
-
-  
+- [[Operateur Spread (...)]]
 
 ---
 
-  
-
 ## 🧭 Navigation / Contexte
-
-  
 
 📂 Dossier : `01 - Développement/1.1 - JavaScript`  
 
 🔍 Vue locale : `Syntaxe de base JS`
 
-  
-
 ---
 
-  
-
 ## 🗒️ Notes personnelles
-
-  
 
 - À bien distinguer de l'opérateur spread (`...`)
 
