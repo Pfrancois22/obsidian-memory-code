@@ -26,33 +26,3 @@ npm install --save-dev eslint```
 ### 2. Configuration de base
 
 Créez un fichier `.eslintrc.js` à la racine :
-
-module.exports = {
-  parser: '@typescript-eslint/parser',
-  extends: [
-    'eslint:recommended',
-    'plugin:@typescript-eslint/recommended',
-    'plugin:react/recommended',
-    'plugin:prettier/recommended'
-  ],
-  plugins: ['react-refresh'],
-  env: {
-    browser: true,
-    es2021: true,
-    node: true
-  },
-  settings: {
-    react: {
-      version: 'detect'
-    }
-  },
-  rules: {
-    // Exemple : autoriser les exports constants pour React Refresh
-    'react-refresh/only-export-components': [
-      'warn',
-      { allowConstantExport: true }
-    ],
-    // Ajouter ou surcharger d’autres règles ici…
-  }
-};
-```
