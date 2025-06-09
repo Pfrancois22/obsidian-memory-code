@@ -191,6 +191,9 @@ npm run lint -- --fix
 
   ## Astuce console.log
 
+Pour le début, juste paramétrer dans la config de ESLint le :
+
+
 - Règle actuelle : `'no-console': 'warn'`
 - Utile pour repérer les `console.log()` sans bloquer le projet
 - Pour production, penser à :
