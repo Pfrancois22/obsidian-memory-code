@@ -1,53 +1,78 @@
 ---
-title: Méthode map() en JavaScript
-tags: [javascript, array, méthode, map, débutant]
+title: Méthode .map() en JavaScript
+tags: [javascript, array, map, débutant]
 created: 2025-06-09
 ---
 
-# Fonction : map()
+# Méthode .map() en JavaScript
 
-## Définition
-La fonction `map()` est utilisée pour itérer sur des tableaux et transformer chaque élément selon une fonction donnée, retournant un nouveau tableau.
+## 🧠 Résumé rapide
+
+> `.map()` crée un nouveau tableau en transformant chaque élément du tableau d’origine via une fonction.
+
+---
 
 ## liens web
 
-[MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Map)
-[w3school](https://www.w3schools.com/js/js_maps.asp)
+[MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Array/map)  
+[w3schools](https://www.w3schools.com/jsref/jsref_map.asp)
 
 ---
 
-## Décomposition pas à pas
-1. **Étape 1** : Créez un tableau de données à manipuler.
-2. **Étape 2** : Appliquez la méthode `map()` sur ce tableau en passant une fonction de transformation comme argument.
-3. **Étape 3** : Utilisez le tableau résultant, par exemple pour générer des éléments JSX dans un composant React.
+## 📌 Contenu
 
-## Exemple d’utilisation
-### Exemple 1 (simple)
-```jsx
-import React from 'react';
+### 📍 Exemple simple
 
-const NumberList = () => {
-  const numbers = [1, 2, 3, 4, 5];
-  const listItems = numbers.map((number) => <li key={number.toString()}>{number}</li>);
+  
 
-  return <ul>{listItems}</ul>;
-};
+```js
 
-export default NumberList;
+const nombres = [1, 2, 3];
+
+const doublés = nombres.map(n => n * 2);
+
+console.log(doublés); // [2, 4, 6]
+
 ```
 
-## Liens externes
-- MDN : [Array.prototype.map()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
-- W3Schools : [JavaScript Array map()](https://www.w3schools.com/jsref/jsref_map.asp)
+  
 
 ---
+
+  
 
 ## 🔗 Liens connexes
 
-### 📚 Concepts liés
-[[map_props]]
+  
 
-### 🛠️ Fiches pratiques
-- [[map]]
+- [[for-loop]]
 
-### 🚧 En cours
+- [[foreach]]
+
+- [[map_props]]
+
+  
+
+---
+
+  
+
+## 🧭 Navigation / Contexte
+
+  
+
+📂 Dossier : `01 - Développement/1.1 - JavaScript`  
+
+🔍 Vue locale : `Méthodes des tableaux`
+
+  
+
+---
+
+  
+
+## 🗒️ Notes personnelles
+
+  
+
+- Très utile pour transformer un tableau

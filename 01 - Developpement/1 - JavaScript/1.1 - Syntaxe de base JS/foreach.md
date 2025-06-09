@@ -44,28 +44,16 @@ fruits.forEach((fruit, index) => {
 - [[for-loop]]
 - [[map]]
 
-  
-
 ---
 
-  
-
 ## 🧭 Navigation / Contexte
-
-  
 
 📂 Dossier : `01 - Développement/1.1 - JavaScript`  
 
 🔍 Vue locale : `Syntaxe de base JS`
 
-  
-
 ---
 
-  
-
 ## 🗒️ Notes personnelles
-
-  
 
 - Ne retourne pas de valeur → pas de chaînage
