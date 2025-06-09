@@ -13,7 +13,7 @@ created: 2025-06-09
 ---
 ## liens web
 
-[MDN]()
+[MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Array/every)
 [w3school](https://www.w3schools.com/jsref/jsref_every.asp)
 
 ---
