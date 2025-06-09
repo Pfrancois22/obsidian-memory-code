@@ -26,7 +26,7 @@ type: plugin
 
 Créer un fichier .eslintrc.js à la racine du projet :
 
-    ```js module.exports = {
+     module.exports = {
       parser: '@typescript-eslint/parser',
       extends: [
         'eslint:recommended',
@@ -51,7 +51,7 @@ Créer un fichier .eslintrc.js à la racine du projet :
           { allowConstantExport: true }
         ]
       }
-    };```
+    };
 
 ### 3. Règles courantes et utiles
 
