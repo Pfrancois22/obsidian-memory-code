@@ -3,25 +3,16 @@ title: Plugin VSC : ESLint
 tags: [développement, typescript, react, qualité-code, eslint, vsc]
 created: 2025-06-09
 ---
-
-
   
-
 # Plugin VSC : ESLint
-
-  
 
 ## 🧠 Résumé rapide
 
   
-
 > Le plugin ESLint pour Visual Studio Code permet de détecter et corriger en temps réel les erreurs et incohérences de code JavaScript/TypeScript (et React), grâce à un système de règles personnalisables et à son intégration avec d’autres outils (Prettier, Husky, etc.).
 
   
-
 ---
-
-  
 
 ## 📌 Contenu
 
