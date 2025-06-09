@@ -1,12 +1,6 @@
 ---
 title: Méthode .every() en JavaScript
-tags:[javascript, array, méthode, every, débutant]
-created: 2025-06-09
---- 
-
----
-title: Méthode .every() en JavaScript
-tags: [javascript, array, includes, débutant]
+tags: [javascript, array, méthode, every, débutant]
 created: 2025-06-09
 ---
 
