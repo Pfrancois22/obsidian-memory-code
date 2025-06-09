@@ -32,4 +32,4 @@ cela permet de corriger (enlever) tous les console.log
 
 > Pour tester le code, dans le terminal faire un 
  ```npm run lint```
- si auune erreur, il ne renvoi rien sinon il renvoit les lignes en erreurs
+ si aucune erreur, il ne renvoi rien sinon il renvoi les lignes en erreurs
