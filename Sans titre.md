@@ -28,11 +28,7 @@ console.log(pairs); // [2, 4]
 
 ```
 
-  
-
 ### 📍 Avec des objets
-
-  
 
 ```js
 
@@ -52,29 +48,16 @@ console.log(actifs); // [{ nom: "Marie", actif: true }]
 
 ```
 
-  
-
 ---
-
-  
 
 ## 🔗 Liens connexes
 
-  
-
-- [[Méthode .map() en JavaScript]]
-
-- [[Méthode .reduce() en JavaScript]]
-
-  
+- [[Méthode .map()]]
+- [[Méthode .reduce()]]
 
 ---
 
-  
-
 ## 🧭 Navigation / Contexte
-
-  
 
 📂 Dossier : `01 - Développement/1.1 - JavaScript`  
 
