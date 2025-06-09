@@ -4,7 +4,7 @@ tags: [javascript, rest, opérateur, débutant]
 created: 2025-06-09
 ---
 
-# Opérateur Rest (...) en JavaScript
+# Opérateur Rest(...) en JavaScript
 
 ## 🧠 Résumé rapide
 
@@ -68,7 +68,7 @@ console.log(reste);   // [2, 3, 4]
 
 ## 🔗 Liens connexes
 
-- [[Operateur Spread (...)]]
+- [[Operateur Spread(...)]]
 
 ---
 

@@ -4,7 +4,7 @@ tags: [javascript, spread, opérateur, débutant]
 created: 2025-06-09
 ---  
 
-# Opérateur Spread (...) en JavaScript  
+# Opérateur Spread(...) en JavaScript  
 
 ## 🧠 Résumé rapide  
 
