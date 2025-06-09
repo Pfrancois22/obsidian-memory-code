@@ -1,35 +1,23 @@
-
+---
+titre: Plugin VSC : ESLint
+tags: [développement, typescript, react, qualité-code, eslint, vsc]
+date: {{date:YYYY-MM-DD}}
+type: plugin
+---
 
 # Plugin VSC : ESLint
 
-* ESLint est un plugin qui permet de respecter TypScript
+## 🧠 Résumé rapide
 
- ## Configuration
-Dans la configuration, on peu lui mettre des Rules (règles).
+> Le plugin ESLint pour Visual Studio Code permet de détecter et corriger en temps réel les erreurs et incohérences de code JavaScript/TypeScript (et React), grâce à un système de règles personnalisables et à son intégration avec d’autres outils (Prettier, Husky, etc.).
 
+---
 
-```rules: {
+## 📌 Contenu
 
-      ...reactHooks.configs.recommended.rules,
+### 1. Installation
 
-      'react-refresh/only-export-components': [
-
-        'warn',
-
-        { allowConstantExport: true },
-
-      ],
-
-    },
-```
-
-* Règles qui peux être utiles
-sur le site [[palantir.github.io/tslint/rules/]]
-
-[[https://palantir.github.io/tslint/rules/no-console/]]
-
-cela permet de corriger (enlever) tous les console.log
-
-> Pour tester le code, dans le terminal faire un 
- ```npm run lint```
- si aucune erreur, il ne renvoi rien sinon il renvoi les lignes en erreurs
+```bash
+# Depuis VSCode : Marketplace → “ESLint” → Installer
+# Dans votre projet :
+npm install --save-dev eslint
