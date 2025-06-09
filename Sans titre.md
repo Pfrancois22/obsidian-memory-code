@@ -1,49 +1,83 @@
 ---
-title: Méthode .includes() en JavaScript
-tags: [javascript, string, array, includes, débutant]
+title: Méthode .some() en JavaScript
+tags: [javascript, array, méthode, some, débutant]
 created: 2025-06-09
----
+---  
 
-# Méthode .includes() en JavaScript
+# Méthode .some() en JavaScript
 
 ## 🧠 Résumé rapide
 
-> `.includes()` vérifie si une **valeur existe** dans un tableau ou une chaîne. Elle renvoie `true` ou `false`.
+> `.some()` teste si **au moins un élément** du tableau satisfait une condition. Elle retourne `true` ou `false`.
 
 ---
 
 ## 📌 Contenu
-
-### 📍 Avec un tableau
-
-```js
-
-const fruits = ["pomme", "banane", "orange"];
-
-console.log(fruits.includes("banane")); // true
-
-```
-
-### 📍 Avec une chaîne
-
-```js
-
-const phrase = "Je suis débutant en JS";
-
-console.log(phrase.includes("débutant")); // true
-
-```
  
+
+### 📍 Exemple simple
+
+  
+
+```js
+
+const nombres = [1, 3, 5, 8];
+
+const contientPair = nombres.some(n => n % 2 === 0);
+
+  
+
+console.log(contientPair); // true
+
+```
+
+  
+
+### 📍 Avec objets
+
+  
+
+```js
+
+const utilisateurs = [
+
+  { nom: "Paul", connecté: false },
+
+  { nom: "Anna", connecté: true }
+
+];
+
+  
+
+const aDesConnectés = utilisateurs.some(u => u.connecté);
+
+console.log(aDesConnectés); // true
+
+```
+
+  
+
 ---
+
+  
 
 ## 🔗 Liens connexes
 
-- [[find]]
-- [[some]]
-- 
+  
+
+- [[Méthode .includes() en JavaScript]]
+
+- [[Méthode .find() en JavaScript]]
+
+  
+
 ---
 
+  
+
 ## 🧭 Navigation / Contexte
+
+  
 
 📂 Dossier : `01 - Développement/1.1 - JavaScript`  
 
@@ -59,6 +93,6 @@ console.log(phrase.includes("débutant")); // true
 
   
 
-- Attention à la casse des lettres (Maj/Min)
+- Très utile pour vérifier si **au moins une condition est remplie**
 
-- Ne fonctionne pas pour rechercher dans un objet directement
+- Ne modifie pas le tableau
