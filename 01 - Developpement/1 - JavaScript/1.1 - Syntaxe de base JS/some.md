@@ -2,7 +2,7 @@
 title: Méthode .some() en JavaScript
 tags: [javascript, array, méthode, some, débutant]
 created: 2025-06-09
----  
+---
 
 # Méthode .some() en JavaScript
 

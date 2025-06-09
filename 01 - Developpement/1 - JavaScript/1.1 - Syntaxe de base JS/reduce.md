@@ -5,8 +5,6 @@ created: 2025-06-09
 ---
 
 
----  
-
 # Méthode .reduce() en JavaScript
 
 ## 🧠 Résumé rapide
