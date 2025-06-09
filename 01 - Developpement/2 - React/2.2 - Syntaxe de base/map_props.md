@@ -70,10 +70,10 @@ Si le tableau `data` est fourni comme ci-dessus, le rendu final sera :
 ## 🔗 Liens connexes
 
 ### 📚 Concepts liés
-[[map_props.md]]
+[[map_props]]
 
 ### 🛠️ Fiches pratiques
-- [[map.md]]
+- [[map]]
 
 ### 🚧 En cours
 
