@@ -25,3 +25,5 @@ Dans la configuration, on peu lui mettre des Rules (règles).
 
 * Règles qui peux être utiles
 sur le site [[palantir.github.io/tslint/rules/]]
+
+[[https://palantir.github.io/tslint/rules/no-console/]]
