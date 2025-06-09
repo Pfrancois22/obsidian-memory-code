@@ -4,7 +4,7 @@ tags: [javascript, array, méthode, map, débutant]
 created: 2025-06-09
 ---
 
-# Fonction : map() en React
+# Fonction : map()
 
 ## Définition
 La fonction `map()` est utilisée pour itérer sur des tableaux et transformer chaque élément selon une fonction donnée, retournant un nouveau tableau.
@@ -12,7 +12,7 @@ La fonction `map()` est utilisée pour itérer sur des tableaux et transformer c
 ## liens web
 
 [MDN]()
-[w3school]()
+[w3school](https://www.w3schools.com/js/js_maps.asp)
 
 ---
 
