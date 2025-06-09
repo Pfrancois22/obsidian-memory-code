@@ -3,5 +3,9 @@
   "foldHeading": false,
   "foldIndent": false,
   "showLineNumber": true,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "userIgnoreFilters": [
+    "_prompts/"
+  ],
+  "alwaysUpdateLinks": true
 }

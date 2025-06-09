@@ -1,9 +1,14 @@
+---
+tags: [react, juggl]
+parent: map
+related:
+  - map
+  - map_props
+children:
+  - foreach
+---
 
-
-
-[[map(props)]]
-
-# Fonction: map() en React
+# Fonction : map() en React
 
 ## Définition
 La fonction `map()` est utilisée pour itérer sur des tableaux et transformer chaque élément selon une fonction donnée, retournant un nouveau tableau.
@@ -31,3 +36,15 @@ export default NumberList;
 ## Liens externes
 - MDN : [Array.prototype.map()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 - W3Schools : [JavaScript Array map()](https://www.w3schools.com/jsref/jsref_map.asp)
+
+---
+
+## 🔗 Liens connexes
+
+### 📚 Concepts liés
+[[map_props.md]]
+
+### 🛠️ Fiches pratiques
+- [[map.md]]
+
+### 🚧 En cours

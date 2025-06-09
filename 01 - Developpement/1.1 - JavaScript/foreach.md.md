@@ -1,7 +1,14 @@
+---
+tags: [react, juggl]
+parent: for-loop
+related:
+  - foreach
+children:
+  - map
+  - map_props
+---
 
-
-
-# foreach()
+# Fonction : foreach()
 
 ## Définition
 - La fonction `foreach()` permet d'exécuter une fonction donnée sur chaque élément d'un tableau.
@@ -24,3 +31,17 @@ array.forEach(element => {
 ## Liens externes
 - MDN : [Array.prototype.forEach() - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
 - W3Schools : [JavaScript Array forEach() Method](https://www.w3schools.com/jsref/jsref_foreach.asp)
+```
+
+---
+
+## 🔗 Liens connexes
+
+### 📚 Concepts liés
+
+[[for-loop.md]]
+### 🛠️ Fiches pratiques
+- [[foreach.md]]
+
+### 🚧 En cours
+

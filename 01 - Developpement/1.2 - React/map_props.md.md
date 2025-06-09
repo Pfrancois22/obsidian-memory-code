@@ -1,8 +1,14 @@
+---
+tags: [react, juggl]
+parent: map
+related:
+  - map
+  - map_props
+children:
+  - foreach
+---
 
-
-[[map()]]
-
-# Fiche Technique : map() avec props dans React
+# Fonction : map() avec props dans React
 
 ## Nom de la fonction  
 `map() avec props`
@@ -58,3 +64,16 @@ Si le tableau `data` est fourni comme ci-dessus, le rendu final sera :
 
 - MDN : [Array.prototype.map()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
 - W3Schools : [JavaScript Array map() Method](https://www.w3schools.com/jsref/jsref_map.asp)
+
+---
+
+## 🔗 Liens connexes
+
+### 📚 Concepts liés
+[[map_props.md]]
+
+### 🛠️ Fiches pratiques
+- [[map.md]]
+
+### 🚧 En cours
+

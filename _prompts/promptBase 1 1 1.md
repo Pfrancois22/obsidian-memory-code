@@ -1,4 +1,9 @@
 
+---
+titre: tag chatgpt
+tags: [hidden]
+related: [tag crées par chatgpt]
+---
 
 Tu es un assistant expert en documentation technique. Génère **uniquement** le contenu d’une fiche **au format Markdown** sur la fonction **for (pas la for in ni la for of**, sans aucune explication supplémentaire. La fiche doit comporter :
 
