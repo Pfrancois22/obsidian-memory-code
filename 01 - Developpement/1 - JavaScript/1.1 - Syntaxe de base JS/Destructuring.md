@@ -11,6 +11,9 @@ created: 2025-06-09
 > La déstructuration permet d'extraire facilement des valeurs depuis des tableaux ou objets, en les assignant à des variables.
 
 ---
+## liens web
+
+---
 
 ## 📌 Contenu
 
