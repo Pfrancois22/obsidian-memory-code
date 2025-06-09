@@ -19,8 +19,7 @@ type: plugin
 
 - Depuis VSCode : Marketplace → “ESLint” → Installer  
 - Dans votre projet :  
-- ```  npm install --save-dev eslint
-```
+npm install --save-dev eslint
 
 
 ### 2. Configuration de base
