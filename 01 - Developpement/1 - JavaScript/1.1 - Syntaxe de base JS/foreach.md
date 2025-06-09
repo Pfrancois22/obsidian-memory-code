@@ -1,11 +1,7 @@
 ---
-tags: [react, juggl]
-parent: for-loop
-related:
-  - foreach
-children:
-  - map
-  - map_props
+title: foreach en JavaScript
+tags: [javascript, foreach, boucle, débutant]
+created: 2025-06-09
 ---
 
 # Fonction : foreach()
