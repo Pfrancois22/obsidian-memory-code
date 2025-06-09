@@ -9,14 +9,12 @@ created: 2025-06-09
 ## Définition
 - La fonction `foreach()` permet d'exécuter une fonction donnée sur chaque élément d'un tableau.
 
-
 ## liens web
 
-[MDN]()
-[w3school]()
+[MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
+[w3school](https://www.w3schools.com/jsref/jsref_foreach.asp)
 
 ---
-
 
 ## Décomposition pas à pas
 1. Étape 1 : Déclarer un tableau contenant les éléments à parcourir.
