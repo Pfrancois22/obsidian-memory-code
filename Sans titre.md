@@ -19,14 +19,13 @@ type: plugin
 
 - Depuis VSCode : Marketplace → “ESLint” → Installer  
 - Dans votre projet :  
-```npm install --save-dev eslint```
-
+  npm install --save-dev eslint
 
 ### 2. Configuration de base
 
 Créer un fichier .eslintrc.js à la racine du projet :
 
-    ```module.exports = {
+    module.exports = {
       parser: '@typescript-eslint/parser',
       extends: [
         'eslint:recommended',
@@ -51,7 +50,7 @@ Créer un fichier .eslintrc.js à la racine du projet :
           { allowConstantExport: true }
         ]
       }
-    };```
+    };
 
 ### 3. Règles courantes et utiles
 
@@ -70,44 +69,44 @@ Installer les dépendances nécessaires :
 
 Ajouter les extensions suivantes :
 
-    ```extends: [
+    extends: [
       'plugin:@typescript-eslint/recommended',
       'plugin:react/recommended'
-    ]```
+    ]
 
 ### 5. Commandes & auto-correction
 
 - Lancer le linter :  
-  ```npm run lint```
+  npm run lint
 
 - Directement :  
-  ```npx eslint . --ext .js,.jsx,.ts,.tsx```
+  npx eslint . --ext .js,.jsx,.ts,.tsx
 
 - Corriger automatiquement :  
-  ```npm run lint -- --fix```
+  npm run lint -- --fix
 
 ### 6. Astuces avancées
 
 Auto-fix à l’enregistrement (dans les paramètres de VSCode) :
 
-    ```"editor.codeActionsOnSave": {
+    "editor.codeActionsOnSave": {
       "source.fixAll.eslint": true
-    }```
+    }
 
 Pré-commit avec Husky :
 
-    ```npm install --save-dev husky lint-staged```
+    npm install --save-dev husky lint-staged
 
 Ajouter dans package.json :
 
-    ```"husky": {
+    "husky": {
       "hooks": {
         "pre-commit": "lint-staged"
       }
     },
     "lint-staged": {
       "*.{js,ts,jsx,tsx}": ["eslint --fix", "git add"]
-    }```
+    }
 
 ---
 
