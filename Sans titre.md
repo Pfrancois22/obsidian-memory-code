@@ -2,4 +2,6 @@
 
 # Plugin VSC : ESLint
 
-* ESLint est un plingin qui permet de respecter TypScript
+* ESLint est un plugin qui permet de respecter TypScript
+
+Dans la configuration, on peu lui mettre des Rules (règles).
