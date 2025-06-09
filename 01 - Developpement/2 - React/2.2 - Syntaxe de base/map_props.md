@@ -1,87 +1,100 @@
 ---
-tags: [react, juggl]
-parent: map
-related:
-  - map
-  - map_props
-children:
-  - foreach
+title: Utiliser .map() dans les props React
+tags: [javascript, react, map, props, débutant]
+created: 2025-06-09
 ---
 
-# Fonction : map() avec props dans React
+# Utiliser .map() dans les props React
 
-## Nom de la fonction  
-`map() avec props`
+## 🧠 Résumé rapide
 
+> `.map()` est souvent utilisé dans React pour afficher une liste d’éléments dynamiquement dans le JSX.
+
+---
 
 ## liens web
 
-[MDN]()
-[w3school]()
+
+[React Docs - Lists and Keys](https://react.dev/learn/rendering-lists)  
+
+[w3schools](https://www.w3schools.com/react/react_es6_map.asp)
+
+  
 
 ---
 
-## Définition  
-La fonction `map()` permet de parcourir un tableau d'éléments et de retourner un nouveau tableau contenant les résultats du passage de chaque élément par une fonction fournie, souvent utilisée pour générer des composants enfants dans React en passant des propriétés (props).
+  
 
-## Décomposition pas à pas  
+## 📌 Contenu
 
-1. **Étape 1 :** Créez un tableau de données que vous souhaitez afficher sous forme de composants.
-   
-2. **Étape 2 :** Utilisez la méthode `map()` sur ce tableau pour itérer sur chaque élément. (voir chaque éléments du tableau)
+  
 
-3. **Étape 3 :** Pour chaque itération, retournez un composant React en lui passant les propriétés (props) nécessaires.
+### 📍 Exemple
 
-## Exemple d’utilisation  
+  
 
-```jsx
-import React from 'react';
+```js
 
-const ItemList = ({ items }) => {
-  return (
-    <ul>
-      {items.map((item, index) => (
-        <li key={index}>{item.name}</li>
-      ))}
-    </ul>
-  );
-};
+const fruits = ["🍎", "🍌", "🍊"];
 
-const App = () => {
-  const data = [
-    { name: 'Apple' },
-    { name: 'Banana' },
-    { name: 'Cherry' }
-  ];
+  
 
-  return <ItemList items={data} />;
-};
+export default function ListeFruits() {
 
-export default App;
+  return (
+
+    <ul>
+
+      {fruits.map((fruit, index) => (
+
+        <li key={index}>{fruit}</li>
+
+      ))}
+
+    </ul>
+
+  );
+
+}
+
 ```
 
-### Exemple avec rendu (sortie)  
-
-Si le tableau `data` est fourni comme ci-dessus, le rendu final sera :
-
-- Apple
-- Banana
-- Cherry
-
-## Liens externes  
-
-- MDN : [Array.prototype.map()](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
-- W3Schools : [JavaScript Array map() Method](https://www.w3schools.com/jsref/jsref_map.asp)
+  
 
 ---
+
+  
 
 ## 🔗 Liens connexes
 
-### 📚 Concepts liés
-[[map_props]]
+  
 
-### 🛠️ Fiches pratiques
-- [[map]]
+- [[Méthode .map() en JavaScript]]
 
-### 🚧 En cours
+- [[foreach]]
 
+  
+
+---
+
+  
+
+## 🧭 Navigation / Contexte
+
+  
+
+📂 Dossier : `02 - React/2.2 - Syntaxe de base`  
+
+🔍 Vue locale : `JSX et rendu dynamique`
+
+  
+
+---
+
+  
+
+## 🗒️ Notes personnelles
+
+  
+
+- Ne jamais oublier la `key` quand on mappe un tableau

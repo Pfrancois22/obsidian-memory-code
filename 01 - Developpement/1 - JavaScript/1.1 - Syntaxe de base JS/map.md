@@ -23,8 +23,6 @@ created: 2025-06-09
 
 ### 📍 Exemple simple
 
-  
-
 ```js
 
 const nombres = [1, 2, 3];
@@ -35,44 +33,24 @@ console.log(doublés); // [2, 4, 6]
 
 ```
 
-  
-
 ---
-
-  
 
 ## 🔗 Liens connexes
 
-  
-
 - [[for-loop]]
-
 - [[foreach]]
-
 - [[map_props]]
-
-  
 
 ---
 
-  
-
 ## 🧭 Navigation / Contexte
-
-  
 
 📂 Dossier : `01 - Développement/1.1 - JavaScript`  
 
 🔍 Vue locale : `Méthodes des tableaux`
 
-  
-
 ---
 
-  
-
 ## 🗒️ Notes personnelles
-
-  
 
 - Très utile pour transformer un tableau
