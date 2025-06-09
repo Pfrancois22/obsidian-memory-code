@@ -1,15 +1,6 @@
 ---
-tags: [react, juggl]
-parent: 
-related:
-  - foreach
-children:
-  - map
----
-
----
-title: Opérateur Rest (...) en JavaScript
-tags: [javascript, rest, opérateur, débutant]
+title: for-loop en JavaScript
+tags: [javascript, for, boucle, débutant]
 created: 2025-06-09
 ---
 
