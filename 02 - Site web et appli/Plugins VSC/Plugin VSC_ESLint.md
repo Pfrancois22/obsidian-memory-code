@@ -216,6 +216,10 @@ Pour le début, juste paramétrer dans la config de ESLint le "no-console" à wa
   - commenter les logs
   - ou passer temporairement à `'error'`
 
+> Puis ensuite dans le Terminal, lancer : 
+```bash
+npm run lint
+```
 
 #### 🪝 Hook Git avec Husky
 
