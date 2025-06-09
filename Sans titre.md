@@ -16,11 +16,13 @@ type: plugin
 ## 📌 Contenu
 
 ### 1. Installation
-
-```bash
-# Depuis VSCode : Marketplace → “ESLint” → Installer
+```# Depuis VSCode : Marketplace → “ESLint” → Installer
 # Dans votre projet :
-npm install --save-dev eslint```
+npm install --save-dev eslint
+```
+
+bash
+
 
 
 ### 2. Configuration de base
