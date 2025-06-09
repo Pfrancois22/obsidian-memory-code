@@ -1,37 +1,20 @@
 ---
 title: Méthode .sort() en JavaScript
-
 tags: [javascript, array, méthode, sort, débutant]
-
 created: 2025-06-09
-
 ---
-
-  
 
 # Méthode .sort() en JavaScript
 
-  
-
 ## 🧠 Résumé rapide
-
-  
 
 > `.sort()` trie les éléments d’un tableau **en place**. Elle modifie le tableau original.
 
-  
-
 ---
-
-  
 
 ## 📌 Contenu
 
-  
-
 ### 📍 Tri alphabétique
-
-  
 
 ```js
 
@@ -43,11 +26,7 @@ console.log(fruits); // [ "abricot", "banane", "pomme" ]
 
 ```
 
-  
-
 ### 📍 Tri numérique
-
-  
 
 ```js
 
@@ -59,19 +38,13 @@ console.log(scores); // [5, 20, 100]
 
 ```
 
-  
-
 ---
-
-  
 
 ## 🔗 Liens connexes
 
-  
+- [[map]]
 
-- [[Méthode .map() en JavaScript]]
-
-- [[Méthode .filter() en JavaScript]]
+- [[filter]]
 
   
 
