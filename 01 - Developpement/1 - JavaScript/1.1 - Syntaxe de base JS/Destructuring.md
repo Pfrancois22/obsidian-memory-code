@@ -13,7 +13,8 @@ created: 2025-06-09
 ---
 ## liens web
 
-* []
+* [https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Operators/Destructuring]MDN
+*  []
 
 ---
 
