@@ -4,31 +4,17 @@ tags: [javascript, string, array, includes, débutant]
 created: 2025-06-09
 ---
 
-  
-
 # Méthode .includes() en JavaScript
-
-  
 
 ## 🧠 Résumé rapide
 
-  
-
 > `.includes()` vérifie si une **valeur existe** dans un tableau ou une chaîne. Elle renvoie `true` ou `false`.
-
-  
 
 ---
 
-  
-
 ## 📌 Contenu
 
-  
-
 ### 📍 Avec un tableau
-
-  
 
 ```js
 
@@ -38,11 +24,7 @@ console.log(fruits.includes("banane")); // true
 
 ```
 
-  
-
 ### 📍 Avec une chaîne
-
-  
 
 ```js
 
@@ -51,30 +33,17 @@ const phrase = "Je suis débutant en JS";
 console.log(phrase.includes("débutant")); // true
 
 ```
-
-  
-
+ 
 ---
-
-  
 
 ## 🔗 Liens connexes
 
-  
-
-- [[Méthode .find() en JavaScript]]
-
-- [[Méthode .some() en JavaScript]]
-
-  
-
+- [[find]]
+- [[some]]
+- 
 ---
 
-  
-
 ## 🧭 Navigation / Contexte
-
-  
 
 📂 Dossier : `01 - Développement/1.1 - JavaScript`  
 
