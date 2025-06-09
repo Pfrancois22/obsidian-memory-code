@@ -14,7 +14,7 @@ created: 2025-06-09
 ## liens web
 
 [MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Operators/Destructuring)
-(w3school (pour React))[https://www.w3schools.com/react/react_es6_destructuring.asp]]
+[w3school (pour React)](https://www.w3schools.com/react/react_es6_destructuring.asp)
 
 ---
 
