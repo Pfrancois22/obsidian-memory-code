@@ -9,6 +9,15 @@ created: 2025-06-09
 ## Définition
 - La fonction `foreach()` permet d'exécuter une fonction donnée sur chaque élément d'un tableau.
 
+
+## liens web
+
+[MDN]()
+[w3school]()
+
+---
+
+
 ## Décomposition pas à pas
 1. Étape 1 : Déclarer un tableau contenant les éléments à parcourir.
 2. Étape 2 : Appeler la méthode `foreach()` sur ce tableau.

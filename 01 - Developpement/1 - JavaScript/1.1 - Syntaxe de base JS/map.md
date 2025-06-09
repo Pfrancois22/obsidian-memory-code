@@ -9,6 +9,13 @@ created: 2025-06-09
 ## Définition
 La fonction `map()` est utilisée pour itérer sur des tableaux et transformer chaque élément selon une fonction donnée, retournant un nouveau tableau.
 
+## liens web
+
+[MDN]()
+[w3school]()
+
+---
+
 ## Décomposition pas à pas
 1. **Étape 1** : Créez un tableau de données à manipuler.
 2. **Étape 2** : Appliquez la méthode `map()` sur ce tableau en passant une fonction de transformation comme argument.
