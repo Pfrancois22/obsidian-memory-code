@@ -16,7 +16,7 @@ created: 2025-06-09
 ## liens web
 
 [MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce)
-[w3school]()
+[w3school](https://www.w3schools.com/jsref/jsref_reduce.asp)
 
 ---
 
