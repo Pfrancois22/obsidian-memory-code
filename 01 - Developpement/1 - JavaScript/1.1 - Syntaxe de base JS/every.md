@@ -1,5 +1,5 @@
 ---
-title: Méthode .every() en JavaScript
+
 tags: [javascript, array, méthode, every, débutant]
 created: 2025-06-09
 --- 
