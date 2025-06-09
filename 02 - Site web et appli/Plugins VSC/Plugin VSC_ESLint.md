@@ -1,8 +1,7 @@
 ---
-titre: Plugin VSC : ESLint  
+title: Plugin VSC : ESLint  
 tags: [développement, typescript, react, qualité-code, eslint, vsc]  
-date: {{date:2025-06-09}}  
-type: plugin  
+created: 2025-06-09  
 ---
 
   
