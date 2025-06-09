@@ -2,6 +2,9 @@
 title: Méthode .reduce() en JavaScript
 tags: [javascript, array, méthode, reduce, débutant]
 created: 2025-06-09
+---
+
+
 ---  
 
 # Méthode .reduce() en JavaScript
