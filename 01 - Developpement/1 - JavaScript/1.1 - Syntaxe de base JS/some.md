@@ -12,6 +12,13 @@ created: 2025-06-09
 
 ---
 
+## liens web
+
+[MDN]()
+[w3school]()
+
+---
+
 ## 📌 Contenu
 
 ### 📍 Exemple simple

@@ -13,6 +13,14 @@ children:
 ## Nom de la fonction  
 `map() avec props`
 
+
+## liens web
+
+[MDN]()
+[w3school]()
+
+---
+
 ## Définition  
 La fonction `map()` permet de parcourir un tableau d'éléments et de retourner un nouveau tableau contenant les résultats du passage de chaque élément par une fonction fournie, souvent utilisée pour générer des composants enfants dans React en passant des propriétés (props).
 
