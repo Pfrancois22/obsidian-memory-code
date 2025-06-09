@@ -1,13 +1,8 @@
 ---
-
 titre: Plugin VSC : ESLint  
-
 tags: [développement, typescript, react, qualité-code, eslint, vsc]  
-
 date: {{date:2025-06-09}}  
-
 type: plugin  
-
 ---
 
   
