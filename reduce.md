@@ -30,8 +30,6 @@ console.log(total); // 10
 
 ### 📍 Conversion tableau → objet
 
-  
-
 ```js
 
 const personnes = [
@@ -58,39 +56,22 @@ console.log(parId); // { 1: "Alice", 2: "Bob" }
 
 ```
 
-  
-
 ### 📍 Valeur de départ
 
-  
-
 - La **valeur initiale** (second argument) est importante.
-
+- 
 - Sans elle, `reduce` commence à l’indice 1 du tableau.
 
-  
-
 ---
-
-  
 
 ## 🔗 Liens connexes
 
-  
-
-- [[Méthode .filter() en JavaScript]]
-
-- [[Méthode .map() en JavaScript]]
-
-  
+- [[filter]]
+- [[map]]
 
 ---
 
-  
-
 ## 🧭 Navigation / Contexte
-
-  
 
 📂 Dossier : `01 - Développement/1.1 - JavaScript`  
 
