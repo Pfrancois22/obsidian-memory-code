@@ -1,58 +1,68 @@
 ---
-title: Méthode .find() en JavaScript
-tags: [javascript, array, méthode, find, débutant]
+title: Méthode .includes() en JavaScript
+tags: [javascript, string, array, includes, débutant]
 created: 2025-06-09
 ---
 
-# Méthode .find() en JavaScript
+  
+
+# Méthode .includes() en JavaScript
+
+  
 
 ## 🧠 Résumé rapide
 
-> `.find()` retourne le **premier élément** d’un tableau qui satisfait une condition. Si rien n’est trouvé, elle retourne `undefined`.
+  
+
+> `.includes()` vérifie si une **valeur existe** dans un tableau ou une chaîne. Elle renvoie `true` ou `false`.
+
+  
 
 ---
+
+  
 
 ## 📌 Contenu
 
-### 📍 Exemple simple
+  
 
-```js
-
-const nombres = [3, 7, 10, 15];
-
-const premierGrand = nombres.find(n => n > 9);
+### 📍 Avec un tableau
 
   
 
-console.log(premierGrand); // 10
-
-```
-
-### 📍 Avec objets
-
 ```js
 
-const utilisateurs = [
+const fruits = ["pomme", "banane", "orange"];
 
-  { nom: "Luc", admin: false },
+console.log(fruits.includes("banane")); // true
 
-  { nom: "Marie", admin: true }
-
-];
+```
 
   
 
-const admin = utilisateurs.find(u => u.admin);
+### 📍 Avec une chaîne
 
-console.log(admin.nom); // "Marie"
+  
+
+```js
+
+const phrase = "Je suis débutant en JS";
+
+console.log(phrase.includes("débutant")); // true
 
 ```
+
+  
 
 ---
 
+  
+
 ## 🔗 Liens connexes
 
-- [[includes() en JavaScript]]
+  
+
+- [[Méthode .find() en JavaScript]]
 
 - [[Méthode .some() en JavaScript]]
 
@@ -80,6 +90,6 @@ console.log(admin.nom); // "Marie"
 
   
 
-- `.find()` renvoie l’élément, pas son index
+- Attention à la casse des lettres (Maj/Min)
 
-- Utile pour vérifier la présence d’un objet ou valeur
+- Ne fonctionne pas pour rechercher dans un objet directement
