@@ -30,4 +30,6 @@ sur le site [[palantir.github.io/tslint/rules/]]
 
 cela permet de corriger (enlever) tous les console.log
 
-> Pour tester le code, 
+> Pour tester le code, dans le terminal faire un 
+ ```npm run lint```
+ si auune erreur, il ne renvoi rien sinon il renvoit les lignes en erreurs
