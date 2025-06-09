@@ -1,38 +1,20 @@
 ---
-
 title: Opérateur Spread (...) en JavaScript
-
 tags: [javascript, spread, opérateur, débutant]
-
 created: 2025-06-09
+---  
 
----
+# Opérateur Spread (...) en JavaScript  
 
-  
+## 🧠 Résumé rapide  
 
-# Opérateur Spread (...) en JavaScript
+> L’opérateur `spread` (`...`) permet de décomposer un tableau, un objet ou une chaîne pour les insérer ailleurs (fonction, tableau, etc.).  
 
-  
+---  
 
-## 🧠 Résumé rapide
+## 📌 Contenu  
 
-  
-
-> L’opérateur `spread` (`...`) permet de décomposer un tableau, un objet ou une chaîne pour les insérer ailleurs (fonction, tableau, etc.).
-
-  
-
----
-
-  
-
-## 📌 Contenu
-
-  
-
-### 📍 Copie de tableau
-
-  
+### 📍 Copie de tableau  
 
 ```js
 
@@ -43,13 +25,9 @@ const copie = [...original];
 console.log(copie); // [1, 2, 3]
 
 ```
-
   
-
 ### 📍 Fusion de tableaux
-
   
-
 ```js
 
 const a = [1, 2];
@@ -62,11 +40,7 @@ console.log(fusion); // [1, 2, 3, 4]
 
 ```
 
-  
-
 ### 📍 Ajout dans un objet
-
-  
 
 ```js
 
@@ -78,15 +52,9 @@ console.log(clone); // { nom: "Bob", age: 25, ville: "Paris" }
 
 ```
 
-  
-
 ---
 
-  
-
 ## 🔗 Liens connexes
-
-  
 
 - [[Opérateur Rest(...)]]
 
