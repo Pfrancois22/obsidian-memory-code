@@ -100,7 +100,7 @@ console.log(reste);   // [2, 3, 4]
 
   
 
-- [[Opérateur Spread (...) en JavaScript]]
+- [[Opérateur Spread (...)]]
 
   
 
