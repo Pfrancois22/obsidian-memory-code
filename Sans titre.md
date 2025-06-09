@@ -27,3 +27,7 @@ Dans la configuration, on peu lui mettre des Rules (règles).
 sur le site [[palantir.github.io/tslint/rules/]]
 
 [[https://palantir.github.io/tslint/rules/no-console/]]
+
+cela permet de corriger (enlever) tous les console.log
+
+> Pour tester le code, 
