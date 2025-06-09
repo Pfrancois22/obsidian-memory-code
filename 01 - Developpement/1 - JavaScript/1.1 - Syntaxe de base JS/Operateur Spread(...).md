@@ -88,7 +88,7 @@ console.log(clone); // { nom: "Bob", age: 25, ville: "Paris" }
 
   
 
-- [[Opérateur Rest (...)]]
+- [[Opérateur Rest(...)]]
 
   
 
