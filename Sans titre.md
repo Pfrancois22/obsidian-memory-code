@@ -25,33 +25,34 @@ type: plugin
 
 Créer un fichier .eslintrc.js à la racine du projet :
 
-    module.exports = {
-      parser: '@typescript-eslint/parser',
-      extends: [
-        'eslint:recommended',
-        'plugin:@typescript-eslint/recommended',
-        'plugin:react/recommended',
-        'plugin:prettier/recommended'
-      ],
-      plugins: ['react-refresh'],
-      env: {
-        browser: true,
-        es2021: true,
-        node: true
-      },
-      settings: {
-        react: {
-          version: 'detect'
-        }
-      },
-      rules: {
-        'react-refresh/only-export-components': [
-          'warn',
-          { allowConstantExport: true }
-        ]
-      }
-    };
-
+    ```js
+module.exports = {
+  parser: '@typescript-eslint/parser',
+  extends: [
+    'eslint:recommended',
+    'plugin:@typescript-eslint/recommended',
+    'plugin:react/recommended',
+    'plugin:prettier/recommended'
+  ],
+  plugins: ['react-refresh'],
+  env: {
+    browser: true,
+    es2021: true,
+    node: true
+  },
+  settings: {
+    react: {
+      version: 'detect'
+    }
+  },
+  rules: {
+    'react-refresh/only-export-components': [
+      'warn',
+      { allowConstantExport: true }
+    ]
+  }
+};
+```
 ### 3. Règles courantes et utiles
 
 - no-console : interdire les console.log en production  
