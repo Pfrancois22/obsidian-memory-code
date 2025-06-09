@@ -12,8 +12,8 @@ La fonction `for()` est une structure de contrôle utilisée pour répéter un b
 
 ## liens web
 
-[MDN]()
-[w3school]()
+[MDN](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Statements/for)
+[w3school](https://www.w3schools.com/js/js_loop_for.asp)
 
 ---
 
