@@ -50,8 +50,8 @@ console.log(tousActifs); // true
 
 ## 🔗 Liens connexes
 
-- [[Méthode .some() en JavaScript]]
-- [[Méthode .filter() en JavaScript]]
+- [[some]]
+- [[filter]]
 
 ---
 
