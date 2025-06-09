@@ -48,15 +48,9 @@ console.log(phrase.includes("débutant")); // true
 
 🔍 Vue locale : `Méthodes des tableaux`
 
-  
-
 ---
 
-  
-
 ## 🗒️ Notes personnelles
-
-  
 
 - Attention à la casse des lettres (Maj/Min)
 

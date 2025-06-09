@@ -55,29 +55,17 @@ console.log(admin.nom); // "Marie"
 - [[includes]]
 - [[some]]
 
-  
-
 ---
 
-  
-
 ## 🧭 Navigation / Contexte
-
-  
 
 📂 Dossier : `01 - Développement/1.1 - JavaScript`  
 
 🔍 Vue locale : `Méthodes des tableaux`
 
-  
-
 ---
 
-  
-
 ## 🗒️ Notes personnelles
-
-  
 
 - `.find()` renvoie l’élément, pas son index
 
