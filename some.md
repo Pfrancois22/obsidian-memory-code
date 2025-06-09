@@ -13,11 +13,8 @@ created: 2025-06-09
 ---
 
 ## 📌 Contenu
- 
 
 ### 📍 Exemple simple
-
-  
 
 ```js
 
@@ -31,11 +28,7 @@ console.log(contientPair); // true
 
 ```
 
-  
-
 ### 📍 Avec objets
-
-  
 
 ```js
 
@@ -55,43 +48,24 @@ console.log(aDesConnectés); // true
 
 ```
 
-  
-
 ---
-
-  
 
 ## 🔗 Liens connexes
 
-  
-
-- [[Méthode .includes() en JavaScript]]
-
-- [[Méthode .find() en JavaScript]]
-
-  
+- [[some]]
+- [[find]]  
 
 ---
 
-  
-
 ## 🧭 Navigation / Contexte
-
-  
 
 📂 Dossier : `01 - Développement/1.1 - JavaScript`  
 
 🔍 Vue locale : `Méthodes des tableaux`
 
-  
-
 ---
 
-  
-
 ## 🗒️ Notes personnelles
-
-  
 
 - Très utile pour vérifier si **au moins une condition est remplie**
 
