@@ -57,3 +57,9 @@ Créez un fichier `.eslintrc.js` à la racine :
 ### 3. Règles courantes et utiles
 
 - **no-console** : interdire les `console.log` en production.
+- ```npm install --save-dev eslint-plugin-no-console
+```
+
+**react-hooks/rules-of-hooks** : garantir l’utilisation correcte des Hooks React.
+**@typescript-eslint/no-unused-vars** : détecter les variables non utilisées.
+**prettier/prettier** : formater le code selon vos conventions Prettier.
