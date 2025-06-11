@@ -69,30 +69,19 @@ nombres.forEach((n) => console.log(n * 2));
 ## 🔗 Liens connexes
 
 - [[function]]
-- [[fo]]
-  
-
+- [[foreach]]
+ 
 ---
 
-  
-
 ## 🧭 Navigation / Contexte
-
-  
 
 📂 Dossier : `01 - Développement/1.1 - JavaScript`  
 
 🔍 Vue locale : `Fonctions et logique`
 
-  
-
 ---
 
-  
-
 ## 🗒️ Notes personnelles
-
-  
 
 - Très courant avec les événements (`addEventListener`, etc.)
 
