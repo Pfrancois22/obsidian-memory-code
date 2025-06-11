@@ -101,7 +101,7 @@ console.log(
 
 ## 🔗 Liens connexes
 
-- [[Méthode .filter() en JavaScript]]
+- [[filter]]
 - [[Fonction fléchée =>]]
 
 ---
