@@ -13,36 +13,20 @@ created: 2025-06-09
 
 > Cela permet de réutiliser partiellement une fonction et d’enchaîner des appels.
 
-  
-
 ---
-
-  
 
 ## liens web
 
-  
-
 [MDN – Fonction curry](https://developer.mozilla.org/en-US/docs/Glossary/Currying)  
-
 [Freecodecamp – Currying in JavaScript (EN)](https://www.freecodecamp.org/news/currying-in-javascript/)
-
-  
 
 ---
 
-  
-
 ## 📌 Contenu
-
-  
 
 ### 📍 Exemple de fonction classique
 
-  
-
 ```js
-
 function add(a, b) {
 
   return a + b;
@@ -50,21 +34,13 @@ function add(a, b) {
 }
 
 console.log(add(2, 3)); // 5
-
 ```
-
-  
 
 ---
 
-  
-
 ### 📍 Exemple de currying à deux niveaux
 
-  
-
 ```js
-
 function add1(a) {
 
   return function (b) {
@@ -75,32 +51,20 @@ function add1(a) {
 
 }
 
-  
-
 const innerClosure = add1(40); // renvoie une fonction
 
 console.log(innerClosure(21)); // 61
 
-  
-
 // ou directement :
 
 console.log(add1(18)(10)); // 28
-
 ```
 
-  
-
----
-
-  
+---  
 
 ### 📍 Currying à trois niveaux
 
-  
-
 ```js
-
 function add3(a) {
 
   return function (b) {
@@ -115,24 +79,14 @@ function add3(a) {
 
 }
 
-  
-
 console.log(add3(20)(30)(50)); // 100
-
 ```
-
-  
 
 ---
 
-  
-
 ### 📍 Avec fonction fléchée
 
-  
-
 ```js
-
 const add4 = (a) => (b) => (c) => a + b + c;
 
 console.log(add4(5)(15)(30)); // 50
