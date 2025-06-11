@@ -90,18 +90,11 @@ console.log(add3(20)(30)(50)); // 100
 const add4 = (a) => (b) => (c) => a + b + c;
 
 console.log(add4(5)(15)(30)); // 50
-
 ```
-
-  
 
 ---
 
-  
-
 ## 🎯 À quoi ça sert concrètement ?
-
-  
 
 - **Réutilisation partielle** : on peut "précharger" un ou plusieurs arguments.
 
@@ -113,57 +106,34 @@ console.log(add4(5)(15)(30)); // 50
 
   - La configuration dynamique de composants
 
-  
-
 **Exemple :**
 
 ```js
 
 const saluer = (salutation) => (nom) => console.log(salutation + " " + nom);
 
-  
-
 const direBonjour = saluer("Bonjour");
 
 direBonjour("Luc"); // Bonjour Luc
-
 ```
 
-  
-
 ---
-
-  
 
 ## 🔗 Liens connexes
 
-  
-
 - [[function]]
-
 - [[arrow function]]
-
 - [[closures]]
-
-  
 
 ---
 
-  
-
 ## 🧭 Navigation / Contexte
-
-  
 
 📂 Dossier : `01 - Développement/1.1 - JavaScript`  
 
 🔍 Vue locale : `Fonctions avancées`
 
-  
-
 ---
-
-  
 
 ## 🗒️ Notes personnelles
 
