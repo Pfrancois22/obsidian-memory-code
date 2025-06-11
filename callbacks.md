@@ -36,73 +36,40 @@ function traiterUtilisateur(callback) {
 }
 
 traiterUtilisateur(saluer);
-
 ```
 
   
-
 👉 Ici, `saluer` est passé **en tant que callback** à `traiterUtilisateur`.
 
-  
-
 ---
-
-  
 
 ### 📍 Callback anonyme
 
-  
-
 ```js
-
 setTimeout(function () {
-
   console.log("3 secondes se sont écoulées");
-
 }, 3000);
-
 ```
-
-  
 
 ➡️ `setTimeout` exécute la fonction **après 3 secondes**.
 
-  
-
 ---
-
-  
 
 ### 📍 Callback fléché
 
-  
-
 ```js
-
 const nombres = [1, 2, 3];
-
 nombres.forEach((n) => console.log(n * 2));
-
 ```
-
-  
 
 ➡️ `.forEach()` prend une fonction en paramètre → c’est un callback.
 
-  
-
 ---
-
-  
 
 ## 🔗 Liens connexes
 
-  
-
-- [[Fonctions en JavaScript]]
-
-- [[Méthode .forEach() en JavaScript]]
-
+- [[function]]
+- [[fo]]
   
 
 ---
