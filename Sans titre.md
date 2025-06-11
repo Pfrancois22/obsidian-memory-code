@@ -26,15 +26,11 @@ created: 2025-06-09
 ### 📍 Fonction déclarée (nommée)
 
 ```js
-
 function bonjour() {
-
   console.log("bonjour toto");
-
 }
 
 bonjour(); // Affiche : bonjour toto
-
 ```
 
 ---
@@ -47,7 +43,6 @@ const salut = function () {
 };
 
 salut(); // Affiche : Salut
-
 ```
 
 ---
