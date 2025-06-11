@@ -71,7 +71,6 @@ created: 2025-06-09
 ---
 
 ## 🗒️ Notes personnelles
-  
 
 - Tu peux ajouter manuellement de nouvelles fiches ici au fur et à mesure.
 
