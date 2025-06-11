@@ -54,39 +54,24 @@ const salut = function () {
 salut(); // Affiche : Salut
 
 ```
- 
 
 ---
 
-  
-
 ### 📍 Fonction fléchée (arrow function)
-
-  
 
 ```js
 
 const hi = () => console.log("hello");
 
-  
-
 hi(); // Affiche : hello
 
 ```
 
-  
-
 📝 Les fonctions fléchées sont souvent utilisées avec les méthodes des tableaux comme `.map()`, `.filter()`...
-
-  
 
 ---
 
-  
-
 ### ⚠️ Attention avec le `this`
-
-  
 
 ```js
 
@@ -99,30 +84,18 @@ const film = {
   printDetails() {
 
     console.log(`${this.name} with ${this.start}`);
-
   }
-
 };
-
-  
 
 film.printDetails(); // Affiche : Seven with Brad Pitt
 
 ```
 
-  
-
 ⚠️ N’utilise **pas** `this` dans une **fonction fléchée** à l'intérieur d’un objet. Elle n’a pas son propre `this`.
-
-  
 
 ---
 
-  
-
 ### 📍 Exemple avec filter() et fonctions
-
-  
 
 ```js
 
@@ -136,24 +109,14 @@ const people = [
 
 ];
 
-  
-
 console.log(
-
   people.filter(function (person) {
-
     return person.age != "Deceded";
-
   })
-
 );
 
-  
-
 console.log(
-
   people.filter((men) => men.age == "Deceded")
-
 );
 
 ```
