@@ -57,6 +57,8 @@ created: 2025-06-09
 
 - [[sort]]
 
+- [[truthy falsy]]
+
   
 
 ---
