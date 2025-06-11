@@ -57,22 +57,13 @@ if (0) {
 
 ```
 
-  
-
 ---
-
-  
 
 ### 📍 Valeurs truthy
 
-  
-
 Tout ce qui **n’est pas falsy** est `truthy` :
 
-  
-
 ```js
-
 true
 
 "texte"
@@ -93,57 +84,34 @@ Infinity
 
 ```
 
-  
-
 Exemple :
 
 ```js
-
 if ("bonjour") {
 
   console.log("affiché");
 
 }
-
 ```
-
   
-
 ---
-
-  
 
 ## 🔗 Liens connexes
 
-  
-
 - [[function]]
-
 - [[conditions]]
-
-  
 
 ---
 
-  
-
 ## 🧭 Navigation / Contexte
-
-  
 
 📂 Dossier : `01 - Développement/1.1 - JavaScript`  
 
 🔍 Vue locale : `Logique et conditions`
 
-  
-
 ---
 
-  
-
 ## 🗒️ Notes personnelles
-
-  
 
 - Très utile pour écrire des conditions rapides : `if (valeur) { ... }`
 
