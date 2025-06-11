@@ -50,6 +50,5 @@ bouton.addEventListener("click", () => {
 ---
 
 ## 🗒️ Notes personnelles
-  
 
 - addEventListener peut écouter plusieurs types d’événements : click, keydown, mouseover...
