@@ -12,49 +12,27 @@ created: 2025-06-09
 
 > Elle permet de gérer du code **asynchrone** plus facilement qu’avec des callbacks.
 
-  
-
 ---
-
-  
 
 ## liens web
 
-  
-
 [MDN – Promise](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Global_Objects/Promise)  
-
 [w3schools (EN)](https://www.w3schools.com/js/js_promise.asp)
-
-  
 
 ---
 
-  
-
 ## 📌 Contenu
-
-  
 
 ### 📍 Exemple basique
 
-  
-
 ```js
-
 const promesse = new Promise((resolve, reject) => {
-
-  const succes = true;
-
-  
+  const succes = true;  
 
   if (succes) resolve("Tout va bien !");
-
   else reject("Erreur !");
 
-});
-
-  
+});  
 
 promesse.then((message) => {
 
@@ -65,22 +43,14 @@ promesse.then((message) => {
   console.error(err);
 
 });
-
 ```
-
-  
 
 ---
 
-  
-
 ## 🔗 Liens connexes
 
-  
-
 - [[async await en JavaScript]]
-
-- [[Callbacks en JavaScript]]
+- [[callbacks]]
 
   
 
