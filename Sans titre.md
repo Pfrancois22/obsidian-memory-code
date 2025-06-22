@@ -1,37 +1,147 @@
+---
+title: Vérifier si une photo est truquée (Photoshop)
+tags: [image, retouche, vérification, photo, manipulation]
+created: 2025-06-09
+---  
 
+# Vérifier si une photo est truquée (Photoshop)  
 
-recherche pour savoir si une photo est truqué
+## 🧠 Résumé rapide  
 
-Dans **Photoshop 20.0.0 (version CC 2019)**, la fonction **"Détecter les manipulations"** (_"Content-Aware Fill" avancé ou outils forensiques_) n'existait pas encore sous forme automatisée. Adobe a introduit des améliorations dans les versions ultérieures (notamment avec l'IA **"Adobe Sensei"**).
+> Cette fiche regroupe plusieurs techniques manuelles pour détecter d’éventuelles retouches ou falsifications sur une photo, notamment via Photoshop CC 2019 ou équivalent.  
 
-### **Comment vérifier les retouches manuellement dans Photoshop 20.0.0 ?**
+---  
 
-Même sans outil dédié, tu peux utiliser ces techniques :
+## 📌 Techniques manuelles dans Photoshop CC 2019 (v20.0.0)  
 
-#### **1. Utilise l’outil "Désaturation" (Ctrl+Shift+U) + Niveaux (Ctrl+L)**
+### 🖤 1. Désaturation + Niveaux  
 
-- Passe l’image en noir et blanc, puis joue sur les niveaux pour faire ressortir les zones suspectes (retouches créent souvent des différences de luminosité).
-    
+- `Ctrl + Shift + U` pour désaturer (passer en noir et blanc).
 
-#### **2. Zoom haute résolution (300%+) sur les zones critiques**
+- `Ctrl + L` pour ouvrir les **Niveaux** et augmenter les contrastes.
 
-- **Peau** : Cherche des textures trop lisses ou répétitives (signe de _clone stamp_ ou _patch tool_).
-    
-- **Contours** : Les bords trop nets (comme un collage) ou des flous incohérents.
-    
+- 📍 Objectif : faire ressortir les zones de texture anormales ou les différences de luminosité dues aux retouches.
 
-#### **3. Calques de réglage "Courbes" (Ctrl+M)**
+  
 
-- Augmente le contraste pour voir les transitions suspectes entre les zones modifiées et non modifiées.
-    
+---
 
-#### **4. Filtre "Passe-haut"**
+  
 
-- Duplique le calque → **Filtre > Autres > Passe-haut** (rayon 3-5 px).
-    
-- Changez le mode de fusion en **"Lumière tamisée"** pour voir les distortions.
-    
+### 🔍 2. Zoom haute résolution (>300%) sur zones critiques
 
-#### **5. Vérifiez les métadonnées**
+  
 
-- **Fichier > Informations > Métadonnées** : Si l’image a été sauvegardée plusieurs fois dans Photoshop, c’est un indice.
+- Inspecte les **textures de peau** trop lisses ou floues.
+
+- Regarde les **bords** trop nets (effet collage) ou les zones floues incohérentes.
+
+- Cherche des **zones clonées ou répétées**.
+
+  
+
+---
+
+  
+
+### 🎚️ 3. Calques de réglage "Courbes"
+
+  
+
+- `Ctrl + M` pour ouvrir les **Courbes**.
+
+- Accentue le contraste pour mettre en évidence les transitions douteuses.
+
+- Permet de repérer les modifications locales dans la lumière.
+
+  
+
+---
+
+  
+
+### 🔎 4. Filtre "Passe-haut"
+
+  
+
+- Duplique le calque.
+
+- Va dans `Filtre > Autres > Passe-haut` (rayon : 3–5 px).
+
+- Change le **mode de fusion** du calque en **Lumière tamisée**.
+
+- 🔍 Objectif : voir les détails et distorsions invisibles à l'œil nu.
+
+  
+
+---
+
+  
+
+### 🗂️ 5. Vérification des métadonnées
+
+  
+
+- Menu `Fichier > Informations > Métadonnées`.
+
+- Vérifie s’il y a des traces de sauvegardes successives dans Photoshop.
+
+- Présence de **logiciels d’édition** mentionnés = alerte potentielle.
+
+  
+
+---
+
+  
+
+## 🧠 Autres outils gratuits en ligne
+
+  
+
+- [FotoForensics](https://fotoforensics.com/) — Analyse d’erreur de niveau (ELA).
+
+- [Image Edited?](https://imageedited.com/) — Vérifie les métadonnées et détecte les traces de retouche.
+
+- [Forensically](https://29a.ch/photo-forensics/) — Suite complète d’outils (copie, niveaux, analyse ELA, bruit, etc).
+
+  
+
+---
+
+  
+
+## 🔗 Liens connexes
+
+  
+
+- [[image]]
+
+- [[vérification visuelle]]
+
+  
+
+---
+
+  
+
+## 🧭 Navigation / Contexte
+
+  
+
+📂 Dossier : `03 - Références générales/Images`  
+
+🔍 Vue locale : `Analyse d’images truquées`
+
+  
+
+---
+
+  
+
+## 🗒️ Notes personnelles
+
+  
+
+- Ces méthodes ne garantissent pas la preuve absolue mais aident à lever le doute.
+
+- L’usage combiné de plusieurs techniques augmente la fiabilité de l’analyse.
