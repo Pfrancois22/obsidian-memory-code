@@ -20,49 +20,31 @@ created: 2025-06-09
 
 - `Ctrl + L` pour ouvrir les **Niveaux** et augmenter les contrastes.
 
-- 📍 Objectif : faire ressortir les zones de texture anormales ou les différences de luminosité dues aux retouches.
+- 📍 Objectif : faire ressortir les zones de texture anormales ou les différences de luminosité dues aux retouches. 
 
-  
+---  
 
----
-
-  
-
-### 🔍 2. Zoom haute résolution (>300%) sur zones critiques
-
-  
+### 🔍 2. Zoom haute résolution (>300%) sur zones critiques  
 
 - Inspecte les **textures de peau** trop lisses ou floues.
 
 - Regarde les **bords** trop nets (effet collage) ou les zones floues incohérentes.
 
-- Cherche des **zones clonées ou répétées**.
+- Cherche des **zones clonées ou répétées**.  
 
-  
+---  
 
----
-
-  
-
-### 🎚️ 3. Calques de réglage "Courbes"
-
-  
+### 🎚️ 3. Calques de réglage "Courbes"  
 
 - `Ctrl + M` pour ouvrir les **Courbes**.
 
 - Accentue le contraste pour mettre en évidence les transitions douteuses.
 
-- Permet de repérer les modifications locales dans la lumière.
-
-  
+- Permet de repérer les modifications locales dans la lumière.  
 
 ---
 
-  
-
-### 🔎 4. Filtre "Passe-haut"
-
-  
+### 🔎 4. Filtre "Passe-haut"  
 
 - Duplique le calque.
 
@@ -72,15 +54,9 @@ created: 2025-06-09
 
 - 🔍 Objectif : voir les détails et distorsions invisibles à l'œil nu.
 
-  
+---  
 
----
-
-  
-
-### 🗂️ 5. Vérification des métadonnées
-
-  
+### 🗂️ 5. Vérification des métadonnées  
 
 - Menu `Fichier > Informations > Métadonnées`.
 
@@ -88,15 +64,9 @@ created: 2025-06-09
 
 - Présence de **logiciels d’édition** mentionnés = alerte potentielle.
 
-  
-
 ---
 
-  
-
 ## 🧠 Autres outils gratuits en ligne
-
-  
 
 - [FotoForensics](https://fotoforensics.com/) — Analyse d’erreur de niveau (ELA).
 
@@ -104,43 +74,25 @@ created: 2025-06-09
 
 - [Forensically](https://29a.ch/photo-forensics/) — Suite complète d’outils (copie, niveaux, analyse ELA, bruit, etc).
 
-  
-
 ---
 
-  
-
 ## 🔗 Liens connexes
-
-  
 
 - [[image]]
 
 - [[vérification visuelle]]
 
-  
-
 ---
 
-  
-
 ## 🧭 Navigation / Contexte
-
-  
 
 📂 Dossier : `03 - Références générales/Images`  
 
 🔍 Vue locale : `Analyse d’images truquées`
 
-  
-
 ---
 
-  
-
 ## 🗒️ Notes personnelles
-
-  
 
 - Ces méthodes ne garantissent pas la preuve absolue mais aident à lever le doute.
 
