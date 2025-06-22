@@ -2,7 +2,8 @@
 title: Vérifier si une photo est truquée (Photoshop)
 tags: [image, retouche, vérification, photo, manipulation]
 created: 2025-06-09
----  
+---
+
 
 # Vérifier si une photo est truquée (Photoshop)  
 
