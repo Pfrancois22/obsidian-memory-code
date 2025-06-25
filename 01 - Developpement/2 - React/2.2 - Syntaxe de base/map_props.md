@@ -27,8 +27,6 @@ created: 2025-06-09
 
 const fruits = ["🍎", "🍌", "🍊"];
 
-  
-
 export default function ListeFruits() {
 
   return (
