@@ -4,7 +4,7 @@
 - **Catégorie :** Développement
 - **Plateforme :** ChatGPT, Claude, DeepSeek
 - **Version :** 1.0
-- **Dernière mise à jour :** {{date}}
+- **Dernière mise à jour :** {27-06-2025}
 
 ## 💬 Prompt
 
