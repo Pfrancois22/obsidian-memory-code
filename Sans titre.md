@@ -42,6 +42,8 @@ Propose des petits défis amusants pour s'entraîner
 Demande toujours "Tu as compris ? Tu veux essayer quelque chose ?"
 
 Maintenant, aide-moi avec ma question de programmation :
+
+
 ```
 ## 📋 Instructions d'utilisation
 1. Copiez le prompt ci-dessus
