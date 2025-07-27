@@ -1,13 +1,19 @@
-
+---
 title: Destructuration des Props
 tags: [javascript, index, navigation]
 created: 2025-07-27
+---
+
 
 
 # Déstructuration & Sécurité des Props (React + TS)
 
 ---
  ## liens web
+ - [🧾 MDN - Destructuring assignment (React/JS)](https://developer.mozilla.org/fr/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
+- [📚 MDN - JSX et props React](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_components)
+- [📘 W3Schools - React Props](https://www.w3schools.com/react/react_props.asp)
+- [📘 W3Schools - JavaScript Destructuring](https://www.w3schools.com/js/js_es6_destructuring.asp)
 ---
 
 ## ✅Déstructuration des Props
