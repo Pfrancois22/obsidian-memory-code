@@ -4,7 +4,9 @@ tags: [javascript, index, navigation]
 created: 2025-07-27
 ---  
 
-# Déstructuration des Props
+# Déstructuration & Sécurité des Props (React + TS)
+
+## Déstructuration des Props
 
 Quand tu reçois des props dans un composant, tu dois **déstructurer** chaque champ dont tu as besoin.
 
@@ -21,3 +23,6 @@ export default function TruncatedText({ text, maxLength = 75, title }: Props) {
 }
 ```
 
+* Si tu oublies de sortir `title`, il **ne sera pas utilisé**, même s’il existe dans le type.
+
+## 
