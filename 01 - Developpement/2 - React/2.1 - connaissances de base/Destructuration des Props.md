@@ -32,4 +32,17 @@ type Props = {
 }
 ```
 * Utilise `title || fallback` pour gérer l’absence :
-* 
+```tsx
+<p title={title || "Texte par défaut"}>{text}</p>
+```
+
+### 🛡️ Sécurité & Accessibilité
+
+|Élément|Pourquoi ?|Comment faire ?|
+|---|---|---|
+|`alt` sur image|Accessibilité + fallback|`<img alt="Titre" />`|
+|`onError`|Si une image ne se charge pas|`onError={(e) => e.currentTarget.src = "/fallback.jpg"}`|
+|`title`|Afficher le texte complet au survol (tooltip)|`title={text}`|
+|Ne **pas utiliser** `dangerouslySetInnerHTML` sauf si **validé** par le backend (⚠️ sécurité XSS)|
+
+## 🧪 Exemple Complet :
