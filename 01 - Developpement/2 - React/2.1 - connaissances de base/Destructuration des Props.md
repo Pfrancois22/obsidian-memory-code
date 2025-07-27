@@ -59,3 +59,8 @@ type Props = {
   title={description}
 />
 ```
+
+## 🔗 Liens connexes
+
+- [[1.1 - Syntaxe de base JS/Destructuring]]  ; // rappel de la syntaxe JS pure
+- [[2.2 - Syntaxe de base/map_props]] ; // utilisation concrète dans les composants
