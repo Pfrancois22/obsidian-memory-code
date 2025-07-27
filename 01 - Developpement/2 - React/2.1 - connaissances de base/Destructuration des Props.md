@@ -6,7 +6,7 @@ created: 2025-07-27
 
 # Déstructuration & Sécurité des Props (React + TS)
 
-## Déstructuration des Props
+## ✅Déstructuration des Props
 
 Quand tu reçois des props dans un composant, tu dois **déstructurer** chaque champ dont tu as besoin.
 
@@ -25,7 +25,7 @@ export default function TruncatedText({ text, maxLength = 75, title }: Props) {
 
 * Si tu oublies de sortir `title`, il **ne sera pas utilisé**, même s’il existe dans le type.
 
-## Props Optionnelles avec `?`
+## ✅Props Optionnelles avec `?`
 ```tsx
 type Props = {
   title?: string; // ← optionnel
@@ -46,3 +46,16 @@ type Props = {
 |Ne **pas utiliser** `dangerouslySetInnerHTML` sauf si **validé** par le backend (⚠️ sécurité XSS)|
 
 ## 🧪 Exemple Complet :
+```tsx
+<img
+  src={imageUrl || "/fallback.jpg"}
+  onError={(e) => { e.currentTarget.src = "/fallback.jpg" }}
+  alt={title}
+/>
+
+<TruncatedText
+  text={description}
+  maxLength={75}
+  title={description}
+/>
+```
