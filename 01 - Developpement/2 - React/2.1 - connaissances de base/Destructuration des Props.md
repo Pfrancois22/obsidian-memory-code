@@ -1,10 +1,14 @@
----
+
 title: Destructuration des Props
 tags: [javascript, index, navigation]
 created: 2025-07-27
----  
+
 
 # Déstructuration & Sécurité des Props (React + TS)
+
+---
+ ## liens web
+---
 
 ## ✅Déstructuration des Props
 
