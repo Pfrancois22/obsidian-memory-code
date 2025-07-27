@@ -4,4 +4,5 @@ tags: [javascript, index, navigation]
 created: 2025-07-27
 ---  
 
-#
+# Déstructuration des Props
+
