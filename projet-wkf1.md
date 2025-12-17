@@ -1,3 +1,4 @@
+```mermaid
 graph TD
 
 %% Main Component
@@ -57,3 +58,4 @@ Data -.->|Données envoyées| Gallery
 Data -.->|Données envoyées| MainInfo
 
 Data -.->|Données envoyées| Contact
+```
